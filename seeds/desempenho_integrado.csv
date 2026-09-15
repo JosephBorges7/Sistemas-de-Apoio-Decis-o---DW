@@ -1,0 +1,661 @@
+ano,municipio,uf,regiao,codigo_ibge,nome_escola,rede,tipo,nota_media_enem,taxa_aprovacao,indicador_ideb,pib_per_capita
+2020,cunha,AC,Norte,2900007,escola da cunha ltda,privada,privada,498.4865909090909,0.736,4.06,10149.09
+2020,cunha,AC,Norte,2900007,escola moura municipal,publica,municipal,489.8602941176471,0.864,3.54,10149.09
+2020,montenegro,AC,Norte,2900008,escola albuquerque ltda,privada,privada,603.7923214285714,0.985,6.26,40048.52
+2020,montenegro,AC,Norte,2900008,escola novaes estadual,publica,estadual,615.603125,0.805,7.23,40048.52
+2020,montenegro,AC,Norte,2900008,escola rodrigues estadual,publica,estadual,605.7862037037037,0.889,7.1,40048.52
+2020,montenegro,AC,Norte,2900008,escola silveira estadual,publica,estadual,609.5308333333334,0.901,7.04,40048.52
+2020,novais,AC,Norte,2900009,escola camargo ltda,privada,privada,575.847380952381,0.899,6.26,30241.26
+2020,novais,AC,Norte,2900009,escola rodrigues municipal,publica,municipal,572.6253125000001,0.795,6.22,30241.26
+2020,alves,AM,Norte,2900001,escola borges estadual,publica,estadual,545.5620588235295,0.748,5.61,21857.98
+2020,alves,AM,Norte,2900001,escola monteiro municipal,publica,municipal,539.8448076923077,0.754,,21857.98
+2020,alves,AM,Norte,2900001,escola moraes estadual,publica,estadual,536.6309615384615,0.795,4.69,21857.98
+2020,alves,AM,Norte,2900001,escola sa municipal,publica,municipal,517.0979411764706,0.809,4.33,21857.98
+2020,da cruz de goias,AM,Norte,2900002,escola aragao estadual,publica,estadual,621.9556249999999,0.87,6.81,43176.43
+2020,da cruz de goias,AM,Norte,2900002,escola camargo municipal,publica,municipal,620.706452991453,0.88,7.67,43176.43
+2020,sousa,AM,Norte,2900003,escola cassiano municipal,publica,municipal,568.2036111111112,0.834,6.27,35083.78
+2020,sousa,AM,Norte,2900003,escola pires municipal,publica,municipal,591.6084482758621,0.799,5.34,35083.78
+2020,abreu da serra,BA,Nordeste,2900012,escola camargo estadual,publica,estadual,628.0277192982456,0.949,7.55,43886.66
+2020,abreu da serra,BA,Nordeste,2900012,escola fernandes ltda,privada,privada,630.8567741935484,0.867,7.53,43886.66
+2020,abreu da serra,BA,Nordeste,2900012,escola ramos municipal,publica,municipal,623.3148214285713,0.936,7.37,43886.66
+2020,camara dos dourados,BA,Nordeste,2900011,escola da mata ltda,privada,privada,478.9562179487179,0.738,3.64,8761.63
+2020,camara dos dourados,BA,Nordeste,2900011,escola vargas estadual,publica,estadual,486.79359375,0.781,4.57,8761.63
+2020,silva,BA,Nordeste,2900010,escola nascimento ltda,privada,privada,585.5607894736843,0.867,6.77,34198.69
+2020,silva,BA,Nordeste,2900010,escola sa municipal,publica,municipal,591.833,0.962,6.46,34198.69
+2020,brito da praia,CE,Nordeste,2900016,escola caldeira municipal,publica,municipal,496.5944594594594,0.736,3.73,14785.97
+2020,brito da praia,CE,Nordeste,2900016,escola montenegro ltda,privada,privada,508.4383333333333,0.82,4.03,14785.97
+2020,pereira paulista,CE,Nordeste,2900017,escola da rosa ltda,privada,privada,523.0266666666666,0.904,4.66,19256.96
+2020,pereira paulista,CE,Nordeste,2900017,escola pires municipal,publica,municipal,521.5560360360361,0.823,,19256.96
+2020,siqueira,CE,Nordeste,2900018,escola costa ltda,privada,privada,554.9110869565218,0.867,6.37,27415.99
+2020,siqueira,CE,Nordeste,2900018,escola montenegro ltda,privada,privada,546.8294444444444,0.881,6.74,27415.99
+2020,siqueira,CE,Nordeste,2900018,escola pereira municipal,publica,municipal,560.8223076923077,0.867,6.92,27415.99
+2020,siqueira,CE,Nordeste,2900018,escola porto ltda,privada,privada,550.2066129032257,0.683,5.57,27415.99
+2020,barros de goias,DF,Centro-Oeste,2900025,escola araujo ltda,privada,privada,553.0026041666666,0.813,4.58,24874.59
+2020,barros de goias,DF,Centro-Oeste,2900025,escola da costa municipal,publica,municipal,542.4447297297297,0.852,6.43,24874.59
+2020,barros de goias,DF,Centro-Oeste,2900025,escola das neves estadual,publica,estadual,550.8299166666667,0.954,5.18,24874.59
+2020,garcia,DF,Centro-Oeste,2900026,escola barros estadual,publica,estadual,601.76,0.828,6.33,37051.51
+2020,garcia,DF,Centro-Oeste,2900026,escola da costa estadual,publica,estadual,584.6461363636364,0.854,6.16,37051.51
+2020,garcia,DF,Centro-Oeste,2900026,escola nunes municipal,publica,municipal,600.6705263157895,0.901,6.74,37051.51
+2020,marques da praia,DF,Centro-Oeste,2900027,escola barros estadual,publica,estadual,517.054375,0.797,4.29,15387.93
+2020,marques da praia,DF,Centro-Oeste,2900027,escola mendonca municipal,publica,municipal,505.2493181818182,0.747,5.71,15387.93
+2020,marques da praia,DF,Centro-Oeste,2900027,escola siqueira estadual,publica,estadual,517.6307692307691,0.771,4.73,15387.93
+2020,barros da prata,GO,Centro-Oeste,2900020,escola castro estadual,publica,estadual,528.0632352941177,0.699,5.41,18775.48
+2020,barros da prata,GO,Centro-Oeste,2900020,escola nogueira ltda,privada,privada,513.3538636363636,0.864,5.0,18775.48
+2020,barros da prata,GO,Centro-Oeste,2900020,escola teixeira ltda,privada,privada,518.8488571428571,0.706,4.28,18775.48
+2020,nascimento de campos,GO,Centro-Oeste,2900019,escola cassiano ltda,privada,privada,551.4057142857143,0.786,5.12,23981.97
+2020,nascimento de campos,GO,Centro-Oeste,2900019,escola freitas estadual,publica,estadual,544.2695,0.822,5.53,23981.97
+2020,pires da praia,GO,Centro-Oeste,2900021,escola moura estadual,publica,estadual,568.0113888888889,0.816,5.21,
+2020,pires da praia,GO,Centro-Oeste,2900021,escola vasconcelos estadual,publica,estadual,565.776388888889,0.911,5.36,
+2020,castro,MG,Sudeste,2900032,escola cunha municipal,publica,municipal,503.77810810810814,0.869,5.38,14309.39
+2020,castro,MG,Sudeste,2900032,escola lima municipal,publica,municipal,519.4635714285714,0.838,4.2,14309.39
+2020,castro,MG,Sudeste,2900032,escola nogueira municipal,publica,municipal,507.5724074074074,0.717,3.79,14309.39
+2020,castro,MG,Sudeste,2900032,escola pereira ltda,privada,privada,506.58918918918914,0.72,4.58,14309.39
+2020,garcia de da mata,MG,Sudeste,2900033,escola costa ltda,privada,privada,490.76045454545454,0.856,4.08,10406.91
+2020,garcia de da mata,MG,Sudeste,2900033,escola sa municipal,publica,municipal,494.80428571428575,0.85,3.37,10406.91
+2020,garcia de da mata,MG,Sudeste,2900033,escola sales estadual,publica,estadual,492.1161428571429,0.694,5.46,10406.91
+2020,garcia de da mata,MG,Sudeste,2900033,escola siqueira estadual,publica,estadual,484.3460294117647,0.776,4.26,10406.91
+2020,nascimento,MG,Sudeste,2900031,escola cavalcante estadual,publica,estadual,570.3152777777777,0.823,,30479.16
+2020,nascimento,MG,Sudeste,2900031,escola da luz municipal,publica,municipal,568.7222222222222,0.897,4.59,30479.16
+2020,nascimento,MG,Sudeste,2900031,escola moura municipal,publica,municipal,564.55,0.865,5.8,30479.16
+2020,aparecida,MT,Centro-Oeste,2900023,escola almeida municipal,publica,municipal,514.890606060606,0.749,5.2,18809.35
+2020,aparecida,MT,Centro-Oeste,2900023,escola mendonca estadual,publica,estadual,526.0561842105263,0.79,,18809.35
+2020,santos,MT,Centro-Oeste,2900022,escola abreu estadual,publica,estadual,503.9128571428572,0.785,5.11,13161.27
+2020,santos,MT,Centro-Oeste,2900022,escola duarte ltda,privada,privada,498.8442105263159,0.708,4.86,13161.27
+2020,santos,MT,Centro-Oeste,2900022,escola peixoto municipal,publica,municipal,504.3406944444444,0.651,4.54,13161.27
+2020,vargas,MT,Centro-Oeste,2900024,escola camargo ltda,privada,privada,529.8135294117646,0.731,6.0,21555.39
+2020,vargas,MT,Centro-Oeste,2900024,escola fonseca estadual,publica,estadual,537.5817105263158,0.719,4.62,21555.39
+2020,andrade do sul,PA,Norte,2900006,escola garcia municipal,publica,municipal,501.0423333333334,0.77,2.93,13771.8
+2020,andrade do sul,PA,Norte,2900006,escola gomes ltda,privada,privada,505.1661111111111,0.778,5.04,13771.8
+2020,andrade do sul,PA,Norte,2900006,escola martins ltda,privada,privada,490.41023809523807,0.864,4.39,13771.8
+2020,andrade do sul,PA,Norte,2900006,escola peixoto estadual,publica,estadual,500.8164,0.772,4.55,13771.8
+2020,pastor,PA,Norte,2900005,escola azevedo estadual,publica,estadual,500.74171052631584,0.766,3.95,13772.69
+2020,pastor,PA,Norte,2900005,escola lima ltda,privada,privada,502.0033783783784,0.699,4.08,13772.69
+2020,pastor,PA,Norte,2900005,escola peixoto ltda,privada,privada,506.4298214285714,0.817,4.61,13772.69
+2020,rocha,PA,Norte,2900004,escola castro estadual,publica,estadual,574.458947368421,0.886,,30150.36
+2020,rocha,PA,Norte,2900004,escola rodrigues municipal,publica,municipal,575.1973684210526,0.781,5.93,30150.36
+2020,rocha,PA,Norte,2900004,escola vieira municipal,publica,municipal,569.1956060606061,0.789,5.82,30150.36
+2020,caldeira de minas,PE,Nordeste,2900015,escola cavalcanti ltda,privada,privada,510.40681818181815,0.8,4.3,14727.52
+2020,caldeira de minas,PE,Nordeste,2900015,escola da luz municipal,publica,municipal,495.1016,0.786,4.54,14727.52
+2020,caldeira de minas,PE,Nordeste,2900015,escola montenegro municipal,publica,municipal,503.38740740740747,0.822,3.82,14727.52
+2020,caldeira de minas,PE,Nordeste,2900015,escola teixeira ltda,privada,privada,511.3961428571429,0.788,5.0,14727.52
+2020,cunha,PE,Nordeste,2900014,escola abreu estadual,publica,estadual,510.9159677419355,0.802,,15856.55
+2020,cunha,PE,Nordeste,2900014,escola marques municipal,publica,municipal,507.405,0.81,4.24,15856.55
+2020,cunha,PE,Nordeste,2900014,escola silveira estadual,publica,estadual,500.5945454545454,0.76,5.09,15856.55
+2020,cunha,PE,Nordeste,2900014,escola silveira ltda,privada,privada,511.5393548387096,0.795,4.43,15856.55
+2020,fernandes paulista,PE,Nordeste,2900013,escola castro municipal,publica,municipal,598.0659722222222,0.99,7.09,38800.38
+2020,fernandes paulista,PE,Nordeste,2900013,escola da rocha municipal,publica,municipal,600.7267647058824,0.843,7.86,38800.38
+2020,fernandes paulista,PE,Nordeste,2900013,escola lopes estadual,publica,estadual,591.3814880952381,0.815,7.84,38800.38
+2020,da cruz,PR,Sul,2900042,escola andrade ltda,privada,privada,548.2914864864865,0.836,5.93,26321.55
+2020,da cruz,PR,Sul,2900042,escola azevedo estadual,publica,estadual,544.6973333333333,0.938,6.14,26321.55
+2020,da cruz,PR,Sul,2900042,escola farias estadual,publica,estadual,548.8158108108108,0.873,,26321.55
+2020,da luz,PR,Sul,2900041,escola araujo estadual,publica,estadual,493.65125,0.78,4.15,12515.41
+2020,da luz,PR,Sul,2900041,escola da conceicao municipal,publica,municipal,493.6944827586207,0.728,3.83,12515.41
+2020,da luz,PR,Sul,2900041,escola pires ltda,privada,privada,495.4270833333333,0.86,5.16,12515.41
+2020,da luz,PR,Sul,2900041,escola santos ltda,privada,privada,507.0798275862069,0.738,3.83,12515.41
+2020,ramos dos dourados,PR,Sul,2900040,escola abreu estadual,publica,estadual,545.41375,0.875,5.43,24285.64
+2020,ramos dos dourados,PR,Sul,2900040,escola barbosa ltda,privada,privada,538.8489583333334,0.895,5.64,24285.64
+2020,ramos dos dourados,PR,Sul,2900040,escola camara estadual,publica,estadual,543.9495,0.841,4.97,24285.64
+2020,andrade,RJ,Sudeste,2900036,escola campos estadual,publica,estadual,601.671891891892,0.839,7.14,37910.7
+2020,andrade,RJ,Sudeste,2900036,escola da cruz municipal,publica,municipal,615.9134615384615,0.889,6.23,37910.7
+2020,andrade,RJ,Sudeste,2900036,escola machado estadual,publica,estadual,592.3817391304348,0.964,7.96,37910.7
+2020,rodrigues,RJ,Sudeste,2900034,escola das neves estadual,publica,estadual,618.2227083333333,0.915,7.77,43108.76
+2020,rodrigues,RJ,Sudeste,2900034,escola guerra estadual,publica,estadual,619.73375,0.916,8.32,43108.76
+2020,rodrigues,RJ,Sudeste,2900034,escola rios ltda,privada,privada,619.9997826086957,0.918,7.25,43108.76
+2020,rodrigues,RJ,Sudeste,2900034,escola silva municipal,publica,municipal,622.0669583333333,0.928,7.0,43108.76
+2020,vargas do norte,RJ,Sudeste,2900035,escola freitas municipal,publica,municipal,615.0174137931035,0.967,,43728.39
+2020,vargas do norte,RJ,Sudeste,2900035,escola macedo ltda,privada,privada,624.4943421052632,0.952,7.8,43728.39
+2020,vargas do norte,RJ,Sudeste,2900035,escola moreira estadual,publica,estadual,620.3729999999999,0.933,8.29,43728.39
+2020,vargas do norte,RJ,Sudeste,2900035,escola rezende estadual,publica,estadual,623.7957692307692,0.789,6.53,43728.39
+2020,cunha,RS,Sul,2900038,escola novaes municipal,publica,municipal,481.8092307692308,0.862,4.42,11613.87
+2020,cunha,RS,Sul,2900038,escola pastor estadual,publica,estadual,503.8257407407408,0.888,4.71,11613.87
+2020,cunha do amparo,RS,Sul,2900039,escola da conceicao ltda,privada,privada,588.7644444444444,0.808,6.57,33316.62
+2020,cunha do amparo,RS,Sul,2900039,escola pastor municipal,publica,municipal,579.020606060606,0.929,6.13,33316.62
+2020,guerra paulista,RS,Sul,2900037,escola almeida ltda,privada,privada,513.2460869565217,0.774,5.17,19270.71
+2020,guerra paulista,RS,Sul,2900037,escola azevedo ltda,privada,privada,532.6193181818181,0.827,5.11,19270.71
+2020,guerra paulista,RS,Sul,2900037,escola camara estadual,publica,estadual,517.8903333333334,0.748,5.61,19270.71
+2020,guerra paulista,RS,Sul,2900037,escola fernandes ltda,privada,privada,530.4037500000001,0.866,4.1,19270.71
+2020,camara grande,SC,Sul,2900045,escola cardoso ltda,privada,privada,525.6836,0.746,3.61,17574.86
+2020,camara grande,SC,Sul,2900045,escola nogueira municipal,publica,municipal,529.3264285714286,0.819,5.07,17574.86
+2020,pacheco das flores,SC,Sul,2900044,escola cunha municipal,publica,municipal,615.972037037037,0.839,6.99,41644.85
+2020,pacheco das flores,SC,Sul,2900044,escola da mota municipal,publica,municipal,621.2905357142857,0.876,8.49,41644.85
+2020,pacheco das flores,SC,Sul,2900044,escola mendonca municipal,publica,municipal,621.309,0.841,7.0,41644.85
+2020,pacheco das flores,SC,Sul,2900044,escola rios municipal,publica,municipal,602.4862068965517,0.884,6.82,41644.85
+2020,souza verde,SC,Sul,2900043,escola barbosa municipal,publica,municipal,484.4778,0.691,3.49,9272.38
+2020,souza verde,SC,Sul,2900043,escola da costa municipal,publica,municipal,487.9893181818181,0.812,4.04,9272.38
+2020,souza verde,SC,Sul,2900043,escola moraes municipal,publica,municipal,487.2705555555555,0.785,4.71,9272.38
+2020,costela paulista,SP,Sudeste,2900029,escola cardoso ltda,privada,privada,562.7197457627118,0.869,4.97,29919.34
+2020,costela paulista,SP,Sudeste,2900029,escola ribeiro estadual,publica,estadual,570.1737096774193,0.838,6.09,29919.34
+2020,costela paulista,SP,Sudeste,2900029,escola vargas municipal,publica,municipal,570.0496428571429,0.862,7.47,29919.34
+2020,freitas,SP,Sudeste,2900028,escola azevedo estadual,publica,estadual,553.37453125,0.781,5.82,27026.67
+2020,freitas,SP,Sudeste,2900028,escola nascimento ltda,privada,privada,559.6334722222223,0.773,5.73,27026.67
+2020,freitas,SP,Sudeste,2900028,escola teixeira estadual,publica,estadual,553.1425,0.852,6.8,27026.67
+2020,pereira,SP,Sudeste,2900030,escola melo ltda,privada,privada,479.2652380952381,0.739,3.52,9718.67
+2020,pereira,SP,Sudeste,2900030,escola novaes municipal,publica,municipal,476.0083333333333,0.748,3.6,9718.67
+2021,cunha,AC,Norte,2900007,escola da cunha ltda,privada,privada,490.2092592592592,0.785,4.63,10116.4
+2021,cunha,AC,Norte,2900007,escola moura municipal,publica,municipal,493.9146551724138,0.835,4.76,10116.4
+2021,montenegro,AC,Norte,2900008,escola albuquerque ltda,privada,privada,608.5064705882353,0.982,5.78,40437.73
+2021,montenegro,AC,Norte,2900008,escola novaes estadual,publica,estadual,600.7570689655173,0.869,7.59,40437.73
+2021,montenegro,AC,Norte,2900008,escola rodrigues estadual,publica,estadual,602.2554166666667,0.877,6.81,40437.73
+2021,montenegro,AC,Norte,2900008,escola silveira estadual,publica,estadual,607.7104347826087,0.833,,40437.73
+2021,novais,AC,Norte,2900009,escola camargo ltda,privada,privada,569.2410714285714,0.901,7.1,30158.1
+2021,novais,AC,Norte,2900009,escola rodrigues municipal,publica,municipal,568.4755,0.756,5.74,30158.1
+2021,alves,AM,Norte,2900001,escola borges estadual,publica,estadual,538.3173717948719,0.851,5.37,
+2021,alves,AM,Norte,2900001,escola monteiro municipal,publica,municipal,536.7856896551724,0.756,5.34,
+2021,alves,AM,Norte,2900001,escola moraes estadual,publica,estadual,530.4410526315789,0.723,,
+2021,alves,AM,Norte,2900001,escola sa municipal,publica,municipal,531.0208749999999,0.752,5.47,
+2021,da cruz de goias,AM,Norte,2900002,escola aragao estadual,publica,estadual,621.3045588235294,0.858,7.93,42124.84
+2021,da cruz de goias,AM,Norte,2900002,escola camargo municipal,publica,municipal,614.8970454545455,0.856,7.55,42124.84
+2021,sousa,AM,Norte,2900003,escola cassiano municipal,publica,municipal,595.663125,0.835,6.8,34140.3
+2021,sousa,AM,Norte,2900003,escola pires municipal,publica,municipal,582.9746,0.839,5.44,34140.3
+2021,abreu da serra,BA,Nordeste,2900012,escola camargo estadual,publica,estadual,642.621875,0.959,7.44,43553.88
+2021,abreu da serra,BA,Nordeste,2900012,escola fernandes ltda,privada,privada,619.0498198198198,0.842,8.15,43553.88
+2021,abreu da serra,BA,Nordeste,2900012,escola ramos municipal,publica,municipal,631.6981578947368,0.897,7.41,43553.88
+2021,camara dos dourados,BA,Nordeste,2900011,escola da mata ltda,privada,privada,477.8086486486487,0.79,4.03,8944.24
+2021,camara dos dourados,BA,Nordeste,2900011,escola vargas estadual,publica,estadual,481.1267105263158,0.653,4.03,8944.24
+2021,silva,BA,Nordeste,2900010,escola nascimento ltda,privada,privada,589.7880952380953,0.898,5.96,35669.88
+2021,silva,BA,Nordeste,2900010,escola sa municipal,publica,municipal,569.3940625,0.965,6.1,35669.88
+2021,brito da praia,CE,Nordeste,2900016,escola caldeira municipal,publica,municipal,502.0175714285715,0.792,4.61,14916.18
+2021,brito da praia,CE,Nordeste,2900016,escola montenegro ltda,privada,privada,495.1084615384616,0.744,4.79,14916.18
+2021,pereira paulista,CE,Nordeste,2900017,escola da rosa ltda,privada,privada,527.8113793103448,0.71,5.04,19152.9
+2021,pereira paulista,CE,Nordeste,2900017,escola pires municipal,publica,municipal,530.9614880952381,0.822,5.41,19152.9
+2021,siqueira,CE,Nordeste,2900018,escola costa ltda,privada,privada,558.2620833333333,0.797,6.47,26890.4
+2021,siqueira,CE,Nordeste,2900018,escola montenegro ltda,privada,privada,556.665294117647,0.83,5.7,26890.4
+2021,siqueira,CE,Nordeste,2900018,escola pereira municipal,publica,municipal,558.8645945945946,0.863,5.49,26890.4
+2021,siqueira,CE,Nordeste,2900018,escola porto ltda,privada,privada,552.6326470588235,0.874,4.89,26890.4
+2021,barros de goias,DF,Centro-Oeste,2900025,escola araujo ltda,privada,privada,551.0958333333333,0.752,5.0,25258.81
+2021,barros de goias,DF,Centro-Oeste,2900025,escola da costa municipal,publica,municipal,544.0592735042735,0.87,5.95,25258.81
+2021,barros de goias,DF,Centro-Oeste,2900025,escola das neves estadual,publica,estadual,545.1091975308642,0.799,6.19,25258.81
+2021,garcia,DF,Centro-Oeste,2900026,escola barros estadual,publica,estadual,597.8938571428571,0.973,5.91,
+2021,garcia,DF,Centro-Oeste,2900026,escola da costa estadual,publica,estadual,581.7586666666667,0.81,7.08,
+2021,garcia,DF,Centro-Oeste,2900026,escola nunes municipal,publica,municipal,601.4,0.95,6.88,
+2021,marques da praia,DF,Centro-Oeste,2900027,escola barros estadual,publica,estadual,506.86984375,0.909,4.2,16412.55
+2021,marques da praia,DF,Centro-Oeste,2900027,escola mendonca municipal,publica,municipal,517.1117647058824,0.878,5.04,16412.55
+2021,marques da praia,DF,Centro-Oeste,2900027,escola siqueira estadual,publica,estadual,505.932,0.913,5.28,16412.55
+2021,barros da prata,GO,Centro-Oeste,2900020,escola castro estadual,publica,estadual,536.028,0.876,5.91,20029.89
+2021,barros da prata,GO,Centro-Oeste,2900020,escola nogueira ltda,privada,privada,520.4875000000001,0.771,5.35,20029.89
+2021,barros da prata,GO,Centro-Oeste,2900020,escola teixeira ltda,privada,privada,522.0370370370371,0.857,5.15,20029.89
+2021,nascimento de campos,GO,Centro-Oeste,2900019,escola cassiano ltda,privada,privada,536.7873076923078,0.84,5.32,24061.63
+2021,nascimento de campos,GO,Centro-Oeste,2900019,escola freitas estadual,publica,estadual,537.2616666666667,0.753,5.88,24061.63
+2021,pires da praia,GO,Centro-Oeste,2900021,escola moura estadual,publica,estadual,568.3883333333333,0.893,7.04,32715.53
+2021,pires da praia,GO,Centro-Oeste,2900021,escola vasconcelos estadual,publica,estadual,574.5177586206896,0.863,5.86,32715.53
+2021,castro,MG,Sudeste,2900032,escola cunha municipal,publica,municipal,500.94826923076926,0.73,4.62,14956.25
+2021,castro,MG,Sudeste,2900032,escola lima municipal,publica,municipal,508.1143181818181,0.885,4.23,14956.25
+2021,castro,MG,Sudeste,2900032,escola nogueira municipal,publica,municipal,508.215,0.736,5.32,14956.25
+2021,castro,MG,Sudeste,2900032,escola pereira ltda,privada,privada,508.77200854700857,0.722,4.33,14956.25
+2021,garcia de da mata,MG,Sudeste,2900033,escola costa ltda,privada,privada,487.88328571428576,0.804,4.52,10531.56
+2021,garcia de da mata,MG,Sudeste,2900033,escola sa municipal,publica,municipal,487.43732142857147,0.745,4.03,10531.56
+2021,garcia de da mata,MG,Sudeste,2900033,escola sales estadual,publica,estadual,486.682,0.743,4.09,10531.56
+2021,garcia de da mata,MG,Sudeste,2900033,escola siqueira estadual,publica,estadual,498.30827586206897,0.79,5.14,10531.56
+2021,nascimento,MG,Sudeste,2900031,escola cavalcante estadual,publica,estadual,571.5811111111111,0.851,5.89,30481.39
+2021,nascimento,MG,Sudeste,2900031,escola da luz municipal,publica,municipal,570.8458823529411,0.828,5.31,30481.39
+2021,nascimento,MG,Sudeste,2900031,escola moura municipal,publica,municipal,565.439,0.852,5.24,30481.39
+2021,aparecida,MT,Centro-Oeste,2900023,escola almeida municipal,publica,municipal,538.4141666666667,0.814,4.98,19027.17
+2021,aparecida,MT,Centro-Oeste,2900023,escola mendonca estadual,publica,estadual,521.4266071428572,0.857,5.14,19027.17
+2021,santos,MT,Centro-Oeste,2900022,escola abreu estadual,publica,estadual,507.2424074074074,0.759,4.33,14121.57
+2021,santos,MT,Centro-Oeste,2900022,escola duarte ltda,privada,privada,497.08181818181816,0.886,4.11,14121.57
+2021,santos,MT,Centro-Oeste,2900022,escola peixoto municipal,publica,municipal,507.888947368421,0.792,5.04,14121.57
+2021,vargas,MT,Centro-Oeste,2900024,escola camargo ltda,privada,privada,530.2413636363636,0.847,5.64,22248.38
+2021,vargas,MT,Centro-Oeste,2900024,escola fonseca estadual,publica,estadual,521.1335416666667,0.754,6.24,22248.38
+2021,andrade do sul,PA,Norte,2900006,escola garcia municipal,publica,municipal,495.8867333333333,0.815,4.41,13721.15
+2021,andrade do sul,PA,Norte,2900006,escola gomes ltda,privada,privada,495.6958823529412,0.696,3.77,13721.15
+2021,andrade do sul,PA,Norte,2900006,escola martins ltda,privada,privada,511.6621875,0.839,2.96,13721.15
+2021,andrade do sul,PA,Norte,2900006,escola peixoto estadual,publica,estadual,496.37,0.765,4.66,13721.15
+2021,pastor,PA,Norte,2900005,escola azevedo estadual,publica,estadual,495.2374193548387,0.839,4.58,14033.34
+2021,pastor,PA,Norte,2900005,escola lima ltda,privada,privada,507.1622222222222,0.863,3.48,14033.34
+2021,pastor,PA,Norte,2900005,escola peixoto ltda,privada,privada,502.79357142857145,0.787,4.83,14033.34
+2021,rocha,PA,Norte,2900004,escola castro estadual,publica,estadual,571.9940322580645,0.908,5.21,30592.61
+2021,rocha,PA,Norte,2900004,escola rodrigues municipal,publica,municipal,573.1545652173913,0.862,5.83,30592.61
+2021,rocha,PA,Norte,2900004,escola vieira municipal,publica,municipal,568.8664473684211,0.788,6.59,30592.61
+2021,caldeira de minas,PE,Nordeste,2900015,escola cavalcanti ltda,privada,privada,504.07925,0.773,5.58,16026.5
+2021,caldeira de minas,PE,Nordeste,2900015,escola da luz municipal,publica,municipal,499.7840625,0.728,5.36,16026.5
+2021,caldeira de minas,PE,Nordeste,2900015,escola montenegro municipal,publica,municipal,505.1293333333333,0.907,5.02,16026.5
+2021,caldeira de minas,PE,Nordeste,2900015,escola teixeira ltda,privada,privada,508.09769230769234,0.789,4.37,16026.5
+2021,cunha,PE,Nordeste,2900014,escola abreu estadual,publica,estadual,509.1356565656565,0.902,5.14,16105.66
+2021,cunha,PE,Nordeste,2900014,escola marques municipal,publica,municipal,509.4963636363637,0.82,4.41,16105.66
+2021,cunha,PE,Nordeste,2900014,escola silveira estadual,publica,estadual,505.6595,0.848,5.1,16105.66
+2021,cunha,PE,Nordeste,2900014,escola silveira ltda,privada,privada,515.9506666666667,0.853,4.73,16105.66
+2021,fernandes paulista,PE,Nordeste,2900013,escola castro municipal,publica,municipal,615.1159090909091,0.843,6.53,37900.16
+2021,fernandes paulista,PE,Nordeste,2900013,escola da rocha municipal,publica,municipal,605.3141891891892,0.858,6.66,37900.16
+2021,fernandes paulista,PE,Nordeste,2900013,escola lopes estadual,publica,estadual,599.2838888888889,0.862,7.5,37900.16
+2021,da cruz,PR,Sul,2900042,escola andrade ltda,privada,privada,570.4619047619047,0.798,6.16,25837.0
+2021,da cruz,PR,Sul,2900042,escola azevedo estadual,publica,estadual,542.6717391304348,0.766,5.65,25837.0
+2021,da cruz,PR,Sul,2900042,escola farias estadual,publica,estadual,560.6771111111112,0.935,5.95,25837.0
+2021,da luz,PR,Sul,2900041,escola araujo estadual,publica,estadual,497.6058333333333,0.753,4.6,12903.37
+2021,da luz,PR,Sul,2900041,escola da conceicao municipal,publica,municipal,488.63642857142855,0.779,4.74,12903.37
+2021,da luz,PR,Sul,2900041,escola pires ltda,privada,privada,496.72383333333335,0.742,5.03,12903.37
+2021,da luz,PR,Sul,2900041,escola santos ltda,privada,privada,503.04720588235296,0.801,4.93,12903.37
+2021,ramos dos dourados,PR,Sul,2900040,escola abreu estadual,publica,estadual,557.0742307692308,0.971,6.25,26159.94
+2021,ramos dos dourados,PR,Sul,2900040,escola barbosa ltda,privada,privada,533.653695652174,0.884,,26159.94
+2021,ramos dos dourados,PR,Sul,2900040,escola camara estadual,publica,estadual,540.6802083333333,0.752,6.78,26159.94
+2021,andrade,RJ,Sudeste,2900036,escola campos estadual,publica,estadual,591.8621875,0.699,6.13,39056.65
+2021,andrade,RJ,Sudeste,2900036,escola da cruz municipal,publica,municipal,605.1488888888889,0.945,7.29,39056.65
+2021,andrade,RJ,Sudeste,2900036,escola machado estadual,publica,estadual,585.4894736842106,0.804,6.54,39056.65
+2021,rodrigues,RJ,Sudeste,2900034,escola das neves estadual,publica,estadual,621.7814999999999,0.933,8.09,42694.19
+2021,rodrigues,RJ,Sudeste,2900034,escola guerra estadual,publica,estadual,618.4348717948718,0.919,6.6,42694.19
+2021,rodrigues,RJ,Sudeste,2900034,escola rios ltda,privada,privada,621.65171875,0.866,6.79,42694.19
+2021,rodrigues,RJ,Sudeste,2900034,escola silva municipal,publica,municipal,623.830652173913,0.894,8.06,42694.19
+2021,vargas do norte,RJ,Sudeste,2900035,escola freitas municipal,publica,municipal,629.5207142857142,0.93,,43755.1
+2021,vargas do norte,RJ,Sudeste,2900035,escola macedo ltda,privada,privada,628.9786666666666,0.983,7.43,43755.1
+2021,vargas do norte,RJ,Sudeste,2900035,escola moreira estadual,publica,estadual,625.75765625,0.99,6.77,43755.1
+2021,vargas do norte,RJ,Sudeste,2900035,escola rezende estadual,publica,estadual,636.8249999999999,0.971,6.46,43755.1
+2021,cunha,RS,Sul,2900038,escola novaes municipal,publica,municipal,489.9768518518519,0.75,4.54,12290.54
+2021,cunha,RS,Sul,2900038,escola pastor estadual,publica,estadual,485.52275,0.721,4.35,12290.54
+2021,cunha do amparo,RS,Sul,2900039,escola da conceicao ltda,privada,privada,573.4901315789474,0.922,6.14,33549.52
+2021,cunha do amparo,RS,Sul,2900039,escola pastor municipal,publica,municipal,566.7083333333334,0.904,6.44,33549.52
+2021,guerra paulista,RS,Sul,2900037,escola almeida ltda,privada,privada,537.7910714285714,0.801,4.57,19395.93
+2021,guerra paulista,RS,Sul,2900037,escola azevedo ltda,privada,privada,517.0188636363637,0.764,4.13,19395.93
+2021,guerra paulista,RS,Sul,2900037,escola camara estadual,publica,estadual,517.8457142857143,0.779,5.96,19395.93
+2021,guerra paulista,RS,Sul,2900037,escola fernandes ltda,privada,privada,519.443,0.747,4.63,19395.93
+2021,camara grande,SC,Sul,2900045,escola cardoso ltda,privada,privada,521.47,0.73,4.78,18815.89
+2021,camara grande,SC,Sul,2900045,escola nogueira municipal,publica,municipal,514.5903333333333,0.843,3.96,18815.89
+2021,pacheco das flores,SC,Sul,2900044,escola cunha municipal,publica,municipal,604.3686363636364,0.888,7.83,42977.76
+2021,pacheco das flores,SC,Sul,2900044,escola da mota municipal,publica,municipal,621.914375,0.919,7.26,42977.76
+2021,pacheco das flores,SC,Sul,2900044,escola mendonca municipal,publica,municipal,605.9345000000001,0.967,7.37,42977.76
+2021,pacheco das flores,SC,Sul,2900044,escola rios municipal,publica,municipal,622.9531818181817,0.845,6.93,42977.76
+2021,souza verde,SC,Sul,2900043,escola barbosa municipal,publica,municipal,486.0033823529412,0.858,4.69,9694.65
+2021,souza verde,SC,Sul,2900043,escola da costa municipal,publica,municipal,491.3926923076924,0.834,5.09,9694.65
+2021,souza verde,SC,Sul,2900043,escola moraes municipal,publica,municipal,480.2625,0.815,4.23,9694.65
+2021,costela paulista,SP,Sudeste,2900029,escola cardoso ltda,privada,privada,573.8217924528302,0.71,5.41,30506.73
+2021,costela paulista,SP,Sudeste,2900029,escola ribeiro estadual,publica,estadual,564.7697142857143,0.867,6.72,30506.73
+2021,costela paulista,SP,Sudeste,2900029,escola vargas municipal,publica,municipal,573.4544871794872,0.82,6.19,30506.73
+2021,freitas,SP,Sudeste,2900028,escola azevedo estadual,publica,estadual,558.6953125,0.734,5.94,27404.88
+2021,freitas,SP,Sudeste,2900028,escola nascimento ltda,privada,privada,554.1521875,0.901,5.36,27404.88
+2021,freitas,SP,Sudeste,2900028,escola teixeira estadual,publica,estadual,551.7673809523809,0.824,5.38,27404.88
+2021,pereira,SP,Sudeste,2900030,escola melo ltda,privada,privada,488.05605263157895,0.746,3.8,9929.24
+2021,pereira,SP,Sudeste,2900030,escola novaes municipal,publica,municipal,480.7975675675675,0.793,3.44,9929.24
+2022,cunha,AC,Norte,2900007,escola da cunha ltda,privada,privada,489.6587254901961,0.828,3.99,10995.98
+2022,cunha,AC,Norte,2900007,escola moura municipal,publica,municipal,484.99115384615385,0.691,4.64,10995.98
+2022,montenegro,AC,Norte,2900008,escola albuquerque ltda,privada,privada,614.5168333333334,0.874,7.16,41262.9
+2022,montenegro,AC,Norte,2900008,escola novaes estadual,publica,estadual,610.1137142857143,0.943,6.72,41262.9
+2022,montenegro,AC,Norte,2900008,escola rodrigues estadual,publica,estadual,614.2892647058824,0.777,7.22,41262.9
+2022,montenegro,AC,Norte,2900008,escola silveira estadual,publica,estadual,620.4935416666666,0.821,7.15,41262.9
+2022,novais,AC,Norte,2900009,escola camargo ltda,privada,privada,560.9298275862069,0.763,5.0,31334.09
+2022,novais,AC,Norte,2900009,escola rodrigues municipal,publica,municipal,565.3912962962963,0.759,5.55,31334.09
+2022,alves,AM,Norte,2900001,escola borges estadual,publica,estadual,535.1923913043478,0.839,4.31,19875.46
+2022,alves,AM,Norte,2900001,escola monteiro municipal,publica,municipal,532.67015625,0.803,5.47,19875.46
+2022,alves,AM,Norte,2900001,escola moraes estadual,publica,estadual,535.2623076923077,0.921,5.87,19875.46
+2022,alves,AM,Norte,2900001,escola sa municipal,publica,municipal,529.2009210526315,0.706,5.69,19875.46
+2022,da cruz de goias,AM,Norte,2900002,escola aragao estadual,publica,estadual,606.6653333333333,0.825,7.83,43710.16
+2022,da cruz de goias,AM,Norte,2900002,escola camargo municipal,publica,municipal,615.2789166666666,0.883,7.38,43710.16
+2022,sousa,AM,Norte,2900003,escola cassiano municipal,publica,municipal,585.7879885057471,0.984,6.74,
+2022,sousa,AM,Norte,2900003,escola pires municipal,publica,municipal,583.4035714285715,0.96,,
+2022,abreu da serra,BA,Nordeste,2900012,escola camargo estadual,publica,estadual,621.621875,0.98,7.08,43579.67
+2022,abreu da serra,BA,Nordeste,2900012,escola fernandes ltda,privada,privada,631.3304,0.869,7.28,43579.67
+2022,abreu da serra,BA,Nordeste,2900012,escola ramos municipal,publica,municipal,620.2501351351351,0.865,7.96,43579.67
+2022,camara dos dourados,BA,Nordeste,2900011,escola da mata ltda,privada,privada,478.71400000000006,0.673,4.18,9527.22
+2022,camara dos dourados,BA,Nordeste,2900011,escola vargas estadual,publica,estadual,487.7446875,0.766,4.33,9527.22
+2022,silva,BA,Nordeste,2900010,escola nascimento ltda,privada,privada,589.0873611111111,0.864,6.13,33975.7
+2022,silva,BA,Nordeste,2900010,escola sa municipal,publica,municipal,581.3946428571428,0.822,6.9,33975.7
+2022,brito da praia,CE,Nordeste,2900016,escola caldeira municipal,publica,municipal,504.621125,0.799,4.5,17847.2
+2022,brito da praia,CE,Nordeste,2900016,escola montenegro ltda,privada,privada,502.1697619047619,0.83,3.87,17847.2
+2022,pereira paulista,CE,Nordeste,2900017,escola da rosa ltda,privada,privada,520.5348484848486,0.755,5.14,19511.33
+2022,pereira paulista,CE,Nordeste,2900017,escola pires municipal,publica,municipal,524.76525,0.875,,19511.33
+2022,siqueira,CE,Nordeste,2900018,escola costa ltda,privada,privada,555.9715789473685,0.841,6.63,26825.72
+2022,siqueira,CE,Nordeste,2900018,escola montenegro ltda,privada,privada,550.5529545454546,0.706,5.96,26825.72
+2022,siqueira,CE,Nordeste,2900018,escola pereira municipal,publica,municipal,558.1204545454545,0.884,6.68,26825.72
+2022,siqueira,CE,Nordeste,2900018,escola porto ltda,privada,privada,554.2303333333333,0.854,6.31,26825.72
+2022,barros de goias,DF,Centro-Oeste,2900025,escola araujo ltda,privada,privada,554.2806818181817,0.902,5.7,26288.95
+2022,barros de goias,DF,Centro-Oeste,2900025,escola da costa municipal,publica,municipal,542.6470707070707,0.835,,26288.95
+2022,barros de goias,DF,Centro-Oeste,2900025,escola das neves estadual,publica,estadual,542.5671875,0.956,4.1,26288.95
+2022,garcia,DF,Centro-Oeste,2900026,escola barros estadual,publica,estadual,592.0623333333333,0.826,6.0,33605.51
+2022,garcia,DF,Centro-Oeste,2900026,escola da costa estadual,publica,estadual,592.4836403508772,0.788,6.81,33605.51
+2022,garcia,DF,Centro-Oeste,2900026,escola nunes municipal,publica,municipal,602.2707407407407,0.842,6.82,33605.51
+2022,marques da praia,DF,Centro-Oeste,2900027,escola barros estadual,publica,estadual,512.8686538461538,0.799,3.99,15626.83
+2022,marques da praia,DF,Centro-Oeste,2900027,escola mendonca municipal,publica,municipal,508.6196551724138,0.768,4.47,15626.83
+2022,marques da praia,DF,Centro-Oeste,2900027,escola siqueira estadual,publica,estadual,512.8361904761905,0.698,4.36,15626.83
+2022,barros da prata,GO,Centro-Oeste,2900020,escola castro estadual,publica,estadual,515.9213596491228,0.817,4.64,20145.61
+2022,barros da prata,GO,Centro-Oeste,2900020,escola nogueira ltda,privada,privada,528.3365151515152,0.623,5.48,20145.61
+2022,barros da prata,GO,Centro-Oeste,2900020,escola teixeira ltda,privada,privada,520.0588636363636,0.766,6.03,20145.61
+2022,nascimento de campos,GO,Centro-Oeste,2900019,escola cassiano ltda,privada,privada,543.9809523809524,0.78,5.83,22695.73
+2022,nascimento de campos,GO,Centro-Oeste,2900019,escola freitas estadual,publica,estadual,532.53203125,0.715,5.36,22695.73
+2022,pires da praia,GO,Centro-Oeste,2900021,escola moura estadual,publica,estadual,570.8126923076923,0.821,5.93,30517.18
+2022,pires da praia,GO,Centro-Oeste,2900021,escola vasconcelos estadual,publica,estadual,586.6203125,0.87,6.11,30517.18
+2022,castro,MG,Sudeste,2900032,escola cunha municipal,publica,municipal,509.9734375,0.735,4.87,14418.36
+2022,castro,MG,Sudeste,2900032,escola lima municipal,publica,municipal,508.6397435897436,0.746,5.0,14418.36
+2022,castro,MG,Sudeste,2900032,escola nogueira municipal,publica,municipal,513.7908333333334,0.808,3.97,14418.36
+2022,castro,MG,Sudeste,2900032,escola pereira ltda,privada,privada,507.5183333333333,0.878,4.49,14418.36
+2022,garcia de da mata,MG,Sudeste,2900033,escola costa ltda,privada,privada,488.6081081081081,0.83,4.63,11349.93
+2022,garcia de da mata,MG,Sudeste,2900033,escola sa municipal,publica,municipal,493.6043243243244,0.793,5.02,11349.93
+2022,garcia de da mata,MG,Sudeste,2900033,escola sales estadual,publica,estadual,491.2253846153847,0.809,4.41,11349.93
+2022,garcia de da mata,MG,Sudeste,2900033,escola siqueira estadual,publica,estadual,490.2966666666667,0.824,4.55,11349.93
+2022,nascimento,MG,Sudeste,2900031,escola cavalcante estadual,publica,estadual,577.0175925925926,0.841,6.22,27973.02
+2022,nascimento,MG,Sudeste,2900031,escola da luz municipal,publica,municipal,571.4310344827586,0.733,5.42,27973.02
+2022,nascimento,MG,Sudeste,2900031,escola moura municipal,publica,municipal,578.5202469135803,0.876,6.12,27973.02
+2022,aparecida,MT,Centro-Oeste,2900023,escola almeida municipal,publica,municipal,526.9728571428572,0.819,,18941.86
+2022,aparecida,MT,Centro-Oeste,2900023,escola mendonca estadual,publica,estadual,519.4379411764705,0.865,5.69,18941.86
+2022,santos,MT,Centro-Oeste,2900022,escola abreu estadual,publica,estadual,499.7776666666667,0.769,4.45,12692.03
+2022,santos,MT,Centro-Oeste,2900022,escola duarte ltda,privada,privada,498.87442857142855,0.784,4.37,12692.03
+2022,santos,MT,Centro-Oeste,2900022,escola peixoto municipal,publica,municipal,493.90866666666665,0.597,5.09,12692.03
+2022,vargas,MT,Centro-Oeste,2900024,escola camargo ltda,privada,privada,540.1115277777777,0.887,5.1,22155.76
+2022,vargas,MT,Centro-Oeste,2900024,escola fonseca estadual,publica,estadual,541.9733333333334,0.676,4.69,22155.76
+2022,andrade do sul,PA,Norte,2900006,escola garcia municipal,publica,municipal,501.1394,0.841,5.66,14147.36
+2022,andrade do sul,PA,Norte,2900006,escola gomes ltda,privada,privada,500.85934782608695,0.874,4.34,14147.36
+2022,andrade do sul,PA,Norte,2900006,escola martins ltda,privada,privada,506.9283333333334,0.649,5.29,14147.36
+2022,andrade do sul,PA,Norte,2900006,escola peixoto estadual,publica,estadual,507.2728947368421,0.741,4.2,14147.36
+2022,pastor,PA,Norte,2900005,escola azevedo estadual,publica,estadual,493.16882352941184,0.865,3.53,12158.74
+2022,pastor,PA,Norte,2900005,escola lima ltda,privada,privada,498.28117647058826,0.77,4.94,12158.74
+2022,pastor,PA,Norte,2900005,escola peixoto ltda,privada,privada,500.0262068965517,0.802,4.07,12158.74
+2022,rocha,PA,Norte,2900004,escola castro estadual,publica,estadual,560.5522857142857,0.815,6.3,33490.51
+2022,rocha,PA,Norte,2900004,escola rodrigues municipal,publica,municipal,557.2974242424242,0.784,6.55,33490.51
+2022,rocha,PA,Norte,2900004,escola vieira municipal,publica,municipal,574.5286,0.811,6.14,33490.51
+2022,caldeira de minas,PE,Nordeste,2900015,escola cavalcanti ltda,privada,privada,508.05,0.89,4.3,15793.45
+2022,caldeira de minas,PE,Nordeste,2900015,escola da luz municipal,publica,municipal,500.7388596491229,0.754,4.86,15793.45
+2022,caldeira de minas,PE,Nordeste,2900015,escola montenegro municipal,publica,municipal,507.9732432432433,0.79,4.45,15793.45
+2022,caldeira de minas,PE,Nordeste,2900015,escola teixeira ltda,privada,privada,509.73078125,0.716,5.28,15793.45
+2022,cunha,PE,Nordeste,2900014,escola abreu estadual,publica,estadual,518.3003125,0.734,4.64,16634.14
+2022,cunha,PE,Nordeste,2900014,escola marques municipal,publica,municipal,522.9023333333333,0.691,4.86,16634.14
+2022,cunha,PE,Nordeste,2900014,escola silveira estadual,publica,estadual,508.3378205128205,0.812,5.24,16634.14
+2022,cunha,PE,Nordeste,2900014,escola silveira ltda,privada,privada,504.9030769230769,0.75,6.26,16634.14
+2022,fernandes paulista,PE,Nordeste,2900013,escola castro municipal,publica,municipal,611.564,0.842,6.54,43377.42
+2022,fernandes paulista,PE,Nordeste,2900013,escola da rocha municipal,publica,municipal,598.9286842105263,0.82,6.11,43377.42
+2022,fernandes paulista,PE,Nordeste,2900013,escola lopes estadual,publica,estadual,607.797,0.915,6.88,43377.42
+2022,da cruz,PR,Sul,2900042,escola andrade ltda,privada,privada,568.2609523809524,0.809,6.04,27454.7
+2022,da cruz,PR,Sul,2900042,escola azevedo estadual,publica,estadual,543.5943333333333,0.817,6.4,27454.7
+2022,da cruz,PR,Sul,2900042,escola farias estadual,publica,estadual,553.61625,0.803,5.6,27454.7
+2022,da luz,PR,Sul,2900041,escola araujo estadual,publica,estadual,492.405,0.74,4.78,12630.16
+2022,da luz,PR,Sul,2900041,escola da conceicao municipal,publica,municipal,507.25484375,0.798,4.64,12630.16
+2022,da luz,PR,Sul,2900041,escola pires ltda,privada,privada,507.2477941176471,0.767,4.67,12630.16
+2022,da luz,PR,Sul,2900041,escola santos ltda,privada,privada,505.605625,0.746,4.28,12630.16
+2022,ramos dos dourados,PR,Sul,2900040,escola abreu estadual,publica,estadual,538.9315909090909,0.836,5.89,24973.41
+2022,ramos dos dourados,PR,Sul,2900040,escola barbosa ltda,privada,privada,545.7095,0.809,6.33,24973.41
+2022,ramos dos dourados,PR,Sul,2900040,escola camara estadual,publica,estadual,553.3411111111111,0.901,5.56,24973.41
+2022,andrade,RJ,Sudeste,2900036,escola campos estadual,publica,estadual,601.563,0.978,6.81,40054.1
+2022,andrade,RJ,Sudeste,2900036,escola da cruz municipal,publica,municipal,600.2260606060606,0.859,6.77,40054.1
+2022,andrade,RJ,Sudeste,2900036,escola machado estadual,publica,estadual,598.4743939393938,0.765,6.91,40054.1
+2022,rodrigues,RJ,Sudeste,2900034,escola das neves estadual,publica,estadual,631.53125,0.819,7.24,41705.69
+2022,rodrigues,RJ,Sudeste,2900034,escola guerra estadual,publica,estadual,621.1347499999999,0.856,,41705.69
+2022,rodrigues,RJ,Sudeste,2900034,escola rios ltda,privada,privada,625.2059523809525,0.87,7.75,41705.69
+2022,rodrigues,RJ,Sudeste,2900034,escola silva municipal,publica,municipal,623.6901333333333,0.99,7.51,41705.69
+2022,vargas do norte,RJ,Sudeste,2900035,escola freitas municipal,publica,municipal,623.8164864864865,0.862,,49897.63
+2022,vargas do norte,RJ,Sudeste,2900035,escola macedo ltda,privada,privada,620.365,0.883,6.69,49897.63
+2022,vargas do norte,RJ,Sudeste,2900035,escola moreira estadual,publica,estadual,620.9034848484848,0.93,8.11,49897.63
+2022,vargas do norte,RJ,Sudeste,2900035,escola rezende estadual,publica,estadual,620.2238,0.99,7.05,49897.63
+2022,cunha,RS,Sul,2900038,escola novaes municipal,publica,municipal,498.60475,0.671,4.17,12731.41
+2022,cunha,RS,Sul,2900038,escola pastor estadual,publica,estadual,506.2770588235294,0.847,4.23,12731.41
+2022,cunha do amparo,RS,Sul,2900039,escola da conceicao ltda,privada,privada,586.7766666666666,0.766,6.46,31189.28
+2022,cunha do amparo,RS,Sul,2900039,escola pastor municipal,publica,municipal,575.7053846153846,0.802,6.69,31189.28
+2022,guerra paulista,RS,Sul,2900037,escola almeida ltda,privada,privada,535.3006321839081,0.62,4.42,18807.11
+2022,guerra paulista,RS,Sul,2900037,escola azevedo ltda,privada,privada,535.136923076923,0.72,5.54,18807.11
+2022,guerra paulista,RS,Sul,2900037,escola camara estadual,publica,estadual,516.5979166666667,0.751,5.05,18807.11
+2022,guerra paulista,RS,Sul,2900037,escola fernandes ltda,privada,privada,519.395,0.865,5.19,18807.11
+2022,camara grande,SC,Sul,2900045,escola cardoso ltda,privada,privada,509.9902083333333,0.793,4.83,18269.45
+2022,camara grande,SC,Sul,2900045,escola nogueira municipal,publica,municipal,514.795394736842,0.798,4.62,18269.45
+2022,pacheco das flores,SC,Sul,2900044,escola cunha municipal,publica,municipal,618.484761904762,0.883,8.32,44489.6
+2022,pacheco das flores,SC,Sul,2900044,escola da mota municipal,publica,municipal,620.8732142857143,0.988,7.21,44489.6
+2022,pacheco das flores,SC,Sul,2900044,escola mendonca municipal,publica,municipal,623.4839583333334,0.893,6.06,44489.6
+2022,pacheco das flores,SC,Sul,2900044,escola rios municipal,publica,municipal,610.8658,0.881,6.34,44489.6
+2022,souza verde,SC,Sul,2900043,escola barbosa municipal,publica,municipal,488.2459523809524,0.745,4.06,9233.57
+2022,souza verde,SC,Sul,2900043,escola da costa municipal,publica,municipal,484.01200000000006,0.8,5.1,9233.57
+2022,souza verde,SC,Sul,2900043,escola moraes municipal,publica,municipal,482.7756896551724,0.796,2.5,9233.57
+2022,costela paulista,SP,Sudeste,2900029,escola cardoso ltda,privada,privada,570.0202857142857,0.988,6.31,31252.19
+2022,costela paulista,SP,Sudeste,2900029,escola ribeiro estadual,publica,estadual,565.5157264957265,0.888,6.06,31252.19
+2022,costela paulista,SP,Sudeste,2900029,escola vargas municipal,publica,municipal,570.1476086956521,0.83,6.15,31252.19
+2022,freitas,SP,Sudeste,2900028,escola azevedo estadual,publica,estadual,562.4691176470589,0.877,,26724.09
+2022,freitas,SP,Sudeste,2900028,escola nascimento ltda,privada,privada,557.7516666666667,0.864,6.45,26724.09
+2022,freitas,SP,Sudeste,2900028,escola teixeira estadual,publica,estadual,555.2655769230769,0.832,6.13,26724.09
+2022,pereira,SP,Sudeste,2900030,escola melo ltda,privada,privada,479.1461764705882,0.789,4.2,9268.03
+2022,pereira,SP,Sudeste,2900030,escola novaes municipal,publica,municipal,490.7103333333333,0.83,5.08,9268.03
+2023,cunha,AC,Norte,2900007,escola da cunha ltda,privada,privada,490.7352525252525,0.796,3.55,11534.37
+2023,cunha,AC,Norte,2900007,escola moura municipal,publica,municipal,492.136125,0.788,3.89,11534.37
+2023,montenegro,AC,Norte,2900008,escola albuquerque ltda,privada,privada,613.48375,0.904,6.7,49249.93
+2023,montenegro,AC,Norte,2900008,escola novaes estadual,publica,estadual,603.04625,0.795,6.61,49249.93
+2023,montenegro,AC,Norte,2900008,escola rodrigues estadual,publica,estadual,610.2014285714286,0.925,,49249.93
+2023,montenegro,AC,Norte,2900008,escola silveira estadual,publica,estadual,606.1793333333334,0.778,7.28,49249.93
+2023,novais,AC,Norte,2900009,escola camargo ltda,privada,privada,573.894125,0.842,5.73,31837.76
+2023,novais,AC,Norte,2900009,escola rodrigues municipal,publica,municipal,572.6765625,0.903,5.52,31837.76
+2023,alves,AM,Norte,2900001,escola borges estadual,publica,estadual,538.8737931034483,0.84,4.91,23509.19
+2023,alves,AM,Norte,2900001,escola monteiro municipal,publica,municipal,527.60675,0.752,5.17,23509.19
+2023,alves,AM,Norte,2900001,escola moraes estadual,publica,estadual,536.993625,0.84,4.47,23509.19
+2023,alves,AM,Norte,2900001,escola sa municipal,publica,municipal,530.3001515151515,0.734,5.27,23509.19
+2023,da cruz de goias,AM,Norte,2900002,escola aragao estadual,publica,estadual,627.1278260869566,0.979,7.65,47102.27
+2023,da cruz de goias,AM,Norte,2900002,escola camargo municipal,publica,municipal,623.2345714285714,0.908,8.03,47102.27
+2023,sousa,AM,Norte,2900003,escola cassiano municipal,publica,municipal,590.8538333333333,0.84,7.08,39394.16
+2023,sousa,AM,Norte,2900003,escola pires municipal,publica,municipal,595.0715,0.847,6.76,39394.16
+2023,abreu da serra,BA,Nordeste,2900012,escola camargo estadual,publica,estadual,618.1713235294118,0.874,8.77,49733.09
+2023,abreu da serra,BA,Nordeste,2900012,escola fernandes ltda,privada,privada,620.5761111111111,0.907,8.26,49733.09
+2023,abreu da serra,BA,Nordeste,2900012,escola ramos municipal,publica,municipal,605.437972972973,0.868,7.45,49733.09
+2023,camara dos dourados,BA,Nordeste,2900011,escola da mata ltda,privada,privada,482.9068518518519,0.79,4.3,8422.48
+2023,camara dos dourados,BA,Nordeste,2900011,escola vargas estadual,publica,estadual,478.39347826086953,0.676,4.23,8422.48
+2023,silva,BA,Nordeste,2900010,escola nascimento ltda,privada,privada,582.5588095238095,0.85,8.01,33782.68
+2023,silva,BA,Nordeste,2900010,escola sa municipal,publica,municipal,590.2763157894736,0.915,6.86,33782.68
+2023,brito da praia,CE,Nordeste,2900016,escola caldeira municipal,publica,municipal,511.3730952380952,0.864,3.89,15657.71
+2023,brito da praia,CE,Nordeste,2900016,escola montenegro ltda,privada,privada,507.12388888888887,0.772,5.03,15657.71
+2023,pereira paulista,CE,Nordeste,2900017,escola da rosa ltda,privada,privada,521.580588235294,0.756,5.57,20783.43
+2023,pereira paulista,CE,Nordeste,2900017,escola pires municipal,publica,municipal,539.2481818181818,0.838,5.18,20783.43
+2023,siqueira,CE,Nordeste,2900018,escola costa ltda,privada,privada,561.4337356321839,0.787,7.08,30170.74
+2023,siqueira,CE,Nordeste,2900018,escola montenegro ltda,privada,privada,545.7811904761905,0.788,5.69,30170.74
+2023,siqueira,CE,Nordeste,2900018,escola pereira municipal,publica,municipal,560.9643181818182,0.79,5.87,30170.74
+2023,siqueira,CE,Nordeste,2900018,escola porto ltda,privada,privada,558.2433333333333,0.826,5.26,30170.74
+2023,barros de goias,DF,Centro-Oeste,2900025,escola araujo ltda,privada,privada,533.4916129032258,0.724,6.15,25901.14
+2023,barros de goias,DF,Centro-Oeste,2900025,escola da costa municipal,publica,municipal,526.5158928571428,0.815,5.66,25901.14
+2023,barros de goias,DF,Centro-Oeste,2900025,escola das neves estadual,publica,estadual,543.8396,0.72,4.76,25901.14
+2023,garcia,DF,Centro-Oeste,2900026,escola barros estadual,publica,estadual,599.8826923076923,0.921,6.32,45511.78
+2023,garcia,DF,Centro-Oeste,2900026,escola da costa estadual,publica,estadual,603.863125,0.887,6.39,45511.78
+2023,garcia,DF,Centro-Oeste,2900026,escola nunes municipal,publica,municipal,598.9785555555555,0.9,6.82,45511.78
+2023,marques da praia,DF,Centro-Oeste,2900027,escola barros estadual,publica,estadual,503.4380303030304,0.805,5.08,16328.03
+2023,marques da praia,DF,Centro-Oeste,2900027,escola mendonca municipal,publica,municipal,499.6811111111112,0.719,4.35,16328.03
+2023,marques da praia,DF,Centro-Oeste,2900027,escola siqueira estadual,publica,estadual,502.7302777777778,0.935,4.65,16328.03
+2023,barros da prata,GO,Centro-Oeste,2900020,escola castro estadual,publica,estadual,532.6817391304348,0.809,5.32,23938.98
+2023,barros da prata,GO,Centro-Oeste,2900020,escola nogueira ltda,privada,privada,531.2638888888889,0.689,5.71,23938.98
+2023,barros da prata,GO,Centro-Oeste,2900020,escola teixeira ltda,privada,privada,532.5426,0.791,5.67,23938.98
+2023,nascimento de campos,GO,Centro-Oeste,2900019,escola cassiano ltda,privada,privada,540.7682758620689,0.943,5.5,22830.55
+2023,nascimento de campos,GO,Centro-Oeste,2900019,escola freitas estadual,publica,estadual,540.6512,0.854,5.75,22830.55
+2023,pires da praia,GO,Centro-Oeste,2900021,escola moura estadual,publica,estadual,565.292619047619,0.966,5.95,32102.63
+2023,pires da praia,GO,Centro-Oeste,2900021,escola vasconcelos estadual,publica,estadual,578.354347826087,0.765,6.19,32102.63
+2023,castro,MG,Sudeste,2900032,escola cunha municipal,publica,municipal,499.4488095238096,0.784,5.8,14077.24
+2023,castro,MG,Sudeste,2900032,escola lima municipal,publica,municipal,503.373125,0.739,,14077.24
+2023,castro,MG,Sudeste,2900032,escola nogueira municipal,publica,municipal,501.7228846153846,0.819,5.31,14077.24
+2023,castro,MG,Sudeste,2900032,escola pereira ltda,privada,privada,509.2936486486487,0.679,3.77,14077.24
+2023,garcia de da mata,MG,Sudeste,2900033,escola costa ltda,privada,privada,484.9024324324324,0.682,4.34,10373.99
+2023,garcia de da mata,MG,Sudeste,2900033,escola sa municipal,publica,municipal,486.0838157894737,0.89,4.5,10373.99
+2023,garcia de da mata,MG,Sudeste,2900033,escola sales estadual,publica,estadual,491.9565789473685,0.725,4.74,10373.99
+2023,garcia de da mata,MG,Sudeste,2900033,escola siqueira estadual,publica,estadual,490.3885714285714,0.709,4.01,10373.99
+2023,nascimento,MG,Sudeste,2900031,escola cavalcante estadual,publica,estadual,572.3385526315789,0.913,6.39,31478.6
+2023,nascimento,MG,Sudeste,2900031,escola da luz municipal,publica,municipal,574.187,0.887,6.45,31478.6
+2023,nascimento,MG,Sudeste,2900031,escola moura municipal,publica,municipal,563.0933333333334,0.783,6.2,31478.6
+2023,aparecida,MT,Centro-Oeste,2900023,escola almeida municipal,publica,municipal,517.9388888888889,0.821,5.99,23515.08
+2023,aparecida,MT,Centro-Oeste,2900023,escola mendonca estadual,publica,estadual,520.8954285714286,0.725,5.41,23515.08
+2023,santos,MT,Centro-Oeste,2900022,escola abreu estadual,publica,estadual,497.1711111111111,0.774,4.92,16464.67
+2023,santos,MT,Centro-Oeste,2900022,escola duarte ltda,privada,privada,502.0214583333333,0.801,5.01,16464.67
+2023,santos,MT,Centro-Oeste,2900022,escola peixoto municipal,publica,municipal,500.92296875,0.763,5.74,16464.67
+2023,vargas,MT,Centro-Oeste,2900024,escola camargo ltda,privada,privada,537.685,0.812,5.19,24104.2
+2023,vargas,MT,Centro-Oeste,2900024,escola fonseca estadual,publica,estadual,540.1723611111112,0.726,4.9,24104.2
+2023,andrade do sul,PA,Norte,2900006,escola garcia municipal,publica,municipal,514.5385294117648,0.707,4.38,15219.63
+2023,andrade do sul,PA,Norte,2900006,escola gomes ltda,privada,privada,505.36260869565217,0.683,4.39,15219.63
+2023,andrade do sul,PA,Norte,2900006,escola martins ltda,privada,privada,504.1425,0.751,4.34,15219.63
+2023,andrade do sul,PA,Norte,2900006,escola peixoto estadual,publica,estadual,506.1546296296296,0.741,4.53,15219.63
+2023,pastor,PA,Norte,2900005,escola azevedo estadual,publica,estadual,504.8309375,0.748,4.45,14706.95
+2023,pastor,PA,Norte,2900005,escola lima ltda,privada,privada,498.5392857142857,0.706,4.71,14706.95
+2023,pastor,PA,Norte,2900005,escola peixoto ltda,privada,privada,505.0276923076923,0.854,5.68,14706.95
+2023,rocha,PA,Norte,2900004,escola castro estadual,publica,estadual,561.3133333333333,0.976,6.47,34224.63
+2023,rocha,PA,Norte,2900004,escola rodrigues municipal,publica,municipal,573.4805555555555,0.921,,34224.63
+2023,rocha,PA,Norte,2900004,escola vieira municipal,publica,municipal,577.8328260869565,0.86,6.38,34224.63
+2023,caldeira de minas,PE,Nordeste,2900015,escola cavalcanti ltda,privada,privada,508.5687096774194,0.645,3.77,15596.01
+2023,caldeira de minas,PE,Nordeste,2900015,escola da luz municipal,publica,municipal,512.2214814814814,0.854,4.65,15596.01
+2023,caldeira de minas,PE,Nordeste,2900015,escola montenegro municipal,publica,municipal,500.7386206896552,0.872,4.79,15596.01
+2023,caldeira de minas,PE,Nordeste,2900015,escola teixeira ltda,privada,privada,511.335652173913,0.735,4.72,15596.01
+2023,cunha,PE,Nordeste,2900014,escola abreu estadual,publica,estadual,493.8309615384615,0.738,3.92,14909.81
+2023,cunha,PE,Nordeste,2900014,escola marques municipal,publica,municipal,511.8611290322581,0.89,5.67,14909.81
+2023,cunha,PE,Nordeste,2900014,escola silveira estadual,publica,estadual,508.22222222222223,0.852,5.38,14909.81
+2023,cunha,PE,Nordeste,2900014,escola silveira ltda,privada,privada,513.860641025641,0.845,4.45,14909.81
+2023,fernandes paulista,PE,Nordeste,2900013,escola castro municipal,publica,municipal,606.0812857142857,0.946,6.53,43285.22
+2023,fernandes paulista,PE,Nordeste,2900013,escola da rocha municipal,publica,municipal,600.21328125,0.829,6.31,43285.22
+2023,fernandes paulista,PE,Nordeste,2900013,escola lopes estadual,publica,estadual,600.2533333333333,0.898,6.24,43285.22
+2023,da cruz,PR,Sul,2900042,escola andrade ltda,privada,privada,541.681052631579,0.861,6.18,22817.43
+2023,da cruz,PR,Sul,2900042,escola azevedo estadual,publica,estadual,562.8402857142858,0.875,4.43,22817.43
+2023,da cruz,PR,Sul,2900042,escola farias estadual,publica,estadual,551.68875,0.806,5.72,22817.43
+2023,da luz,PR,Sul,2900041,escola araujo estadual,publica,estadual,498.0386363636364,0.688,4.95,13195.74
+2023,da luz,PR,Sul,2900041,escola da conceicao municipal,publica,municipal,499.04879310344825,0.835,4.81,13195.74
+2023,da luz,PR,Sul,2900041,escola pires ltda,privada,privada,501.854375,0.788,3.88,13195.74
+2023,da luz,PR,Sul,2900041,escola santos ltda,privada,privada,504.745,0.713,4.19,13195.74
+2023,ramos dos dourados,PR,Sul,2900040,escola abreu estadual,publica,estadual,545.7621052631579,0.795,5.66,26749.82
+2023,ramos dos dourados,PR,Sul,2900040,escola barbosa ltda,privada,privada,547.9502380952381,0.78,4.27,26749.82
+2023,ramos dos dourados,PR,Sul,2900040,escola camara estadual,publica,estadual,550.6472222222222,0.843,5.49,26749.82
+2023,andrade,RJ,Sudeste,2900036,escola campos estadual,publica,estadual,601.371,0.844,7.83,31818.31
+2023,andrade,RJ,Sudeste,2900036,escola da cruz municipal,publica,municipal,602.6161111111111,0.822,6.3,31818.31
+2023,andrade,RJ,Sudeste,2900036,escola machado estadual,publica,estadual,593.2040625,0.862,7.02,31818.31
+2023,rodrigues,RJ,Sudeste,2900034,escola das neves estadual,publica,estadual,618.4185,0.841,7.2,42758.65
+2023,rodrigues,RJ,Sudeste,2900034,escola guerra estadual,publica,estadual,634.1184615384615,0.893,7.24,42758.65
+2023,rodrigues,RJ,Sudeste,2900034,escola rios ltda,privada,privada,618.286052631579,0.868,8.36,42758.65
+2023,rodrigues,RJ,Sudeste,2900034,escola silva municipal,publica,municipal,625.4286363636364,0.99,7.47,42758.65
+2023,vargas do norte,RJ,Sudeste,2900035,escola freitas municipal,publica,municipal,615.304540229885,0.895,6.89,46911.13
+2023,vargas do norte,RJ,Sudeste,2900035,escola macedo ltda,privada,privada,621.4252916666667,0.783,6.95,46911.13
+2023,vargas do norte,RJ,Sudeste,2900035,escola moreira estadual,publica,estadual,628.6733333333333,0.837,7.24,46911.13
+2023,vargas do norte,RJ,Sudeste,2900035,escola rezende estadual,publica,estadual,617.564,0.906,7.04,46911.13
+2023,cunha,RS,Sul,2900038,escola novaes municipal,publica,municipal,487.29875,0.76,4.87,12743.13
+2023,cunha,RS,Sul,2900038,escola pastor estadual,publica,estadual,496.0238461538462,0.717,3.95,12743.13
+2023,cunha do amparo,RS,Sul,2900039,escola da conceicao ltda,privada,privada,576.59875,0.813,,37972.48
+2023,cunha do amparo,RS,Sul,2900039,escola pastor municipal,publica,municipal,591.2580303030303,0.914,6.01,37972.48
+2023,guerra paulista,RS,Sul,2900037,escola almeida ltda,privada,privada,526.885641025641,0.85,,20635.59
+2023,guerra paulista,RS,Sul,2900037,escola azevedo ltda,privada,privada,517.8444117647059,0.714,5.24,20635.59
+2023,guerra paulista,RS,Sul,2900037,escola camara estadual,publica,estadual,526.337,0.849,3.61,20635.59
+2023,guerra paulista,RS,Sul,2900037,escola fernandes ltda,privada,privada,526.6068,0.799,4.46,20635.59
+2023,camara grande,SC,Sul,2900045,escola cardoso ltda,privada,privada,512.0197435897436,0.75,4.77,18751.73
+2023,camara grande,SC,Sul,2900045,escola nogueira municipal,publica,municipal,519.4031018518518,0.843,5.87,18751.73
+2023,pacheco das flores,SC,Sul,2900044,escola cunha municipal,publica,municipal,618.3704166666666,0.796,,39759.21
+2023,pacheco das flores,SC,Sul,2900044,escola da mota municipal,publica,municipal,607.0375,0.898,6.81,39759.21
+2023,pacheco das flores,SC,Sul,2900044,escola mendonca municipal,publica,municipal,617.6346296296297,0.927,7.09,39759.21
+2023,pacheco das flores,SC,Sul,2900044,escola rios municipal,publica,municipal,609.2525675675676,0.932,6.28,39759.21
+2023,souza verde,SC,Sul,2900043,escola barbosa municipal,publica,municipal,471.3003125,0.825,4.16,9372.01
+2023,souza verde,SC,Sul,2900043,escola da costa municipal,publica,municipal,484.0304545454545,0.659,4.17,9372.01
+2023,souza verde,SC,Sul,2900043,escola moraes municipal,publica,municipal,489.8638541666666,0.645,3.73,9372.01
+2023,costela paulista,SP,Sudeste,2900029,escola cardoso ltda,privada,privada,564.2966666666666,0.889,6.07,34340.24
+2023,costela paulista,SP,Sudeste,2900029,escola ribeiro estadual,publica,estadual,577.3628125,0.872,6.91,34340.24
+2023,costela paulista,SP,Sudeste,2900029,escola vargas municipal,publica,municipal,564.171052631579,0.896,,34340.24
+2023,freitas,SP,Sudeste,2900028,escola azevedo estadual,publica,estadual,558.14175,0.85,4.6,29139.39
+2023,freitas,SP,Sudeste,2900028,escola nascimento ltda,privada,privada,549.3878125,0.808,5.14,29139.39
+2023,freitas,SP,Sudeste,2900028,escola teixeira estadual,publica,estadual,559.9994166666667,0.772,6.12,29139.39
+2023,pereira,SP,Sudeste,2900030,escola melo ltda,privada,privada,492.5295454545454,0.786,4.12,11076.93
+2023,pereira,SP,Sudeste,2900030,escola novaes municipal,publica,municipal,493.4717307692308,0.846,4.03,11076.93
+2024,cunha,AC,Norte,2900007,escola da cunha ltda,privada,privada,487.9234210526316,0.74,4.56,9901.08
+2024,cunha,AC,Norte,2900007,escola moura municipal,publica,municipal,482.94125,0.801,3.47,9901.08
+2024,montenegro,AC,Norte,2900008,escola albuquerque ltda,privada,privada,613.16203125,0.946,7.01,44490.14
+2024,montenegro,AC,Norte,2900008,escola novaes estadual,publica,estadual,613.0324712643678,0.916,6.1,44490.14
+2024,montenegro,AC,Norte,2900008,escola rodrigues estadual,publica,estadual,615.8925980392156,0.869,7.13,44490.14
+2024,montenegro,AC,Norte,2900008,escola silveira estadual,publica,estadual,618.1932692307693,0.908,7.65,44490.14
+2024,novais,AC,Norte,2900009,escola camargo ltda,privada,privada,568.6438172043011,0.797,6.41,37862.71
+2024,novais,AC,Norte,2900009,escola rodrigues municipal,publica,municipal,549.647,0.99,5.53,37862.71
+2024,alves,AM,Norte,2900001,escola borges estadual,publica,estadual,540.058,0.698,4.85,25562.98
+2024,alves,AM,Norte,2900001,escola monteiro municipal,publica,municipal,529.6591666666667,0.852,4.96,25562.98
+2024,alves,AM,Norte,2900001,escola moraes estadual,publica,estadual,542.7531578947368,0.777,4.92,25562.98
+2024,alves,AM,Norte,2900001,escola sa municipal,publica,municipal,530.0305000000001,0.809,4.92,25562.98
+2024,da cruz de goias,AM,Norte,2900002,escola aragao estadual,publica,estadual,623.7544642857143,0.845,5.84,
+2024,da cruz de goias,AM,Norte,2900002,escola camargo municipal,publica,municipal,613.9586666666667,0.868,7.53,
+2024,sousa,AM,Norte,2900003,escola cassiano municipal,publica,municipal,574.8117391304348,0.835,7.28,40678.73
+2024,sousa,AM,Norte,2900003,escola pires municipal,publica,municipal,583.3362962962963,0.727,7.06,40678.73
+2024,abreu da serra,BA,Nordeste,2900012,escola camargo estadual,publica,estadual,621.9298275862069,0.983,7.13,48595.49
+2024,abreu da serra,BA,Nordeste,2900012,escola fernandes ltda,privada,privada,622.9697142857143,0.806,8.01,48595.49
+2024,abreu da serra,BA,Nordeste,2900012,escola ramos municipal,publica,municipal,622.5855882352942,0.877,7.13,48595.49
+2024,camara dos dourados,BA,Nordeste,2900011,escola da mata ltda,privada,privada,494.03472222222223,0.818,4.41,10395.68
+2024,camara dos dourados,BA,Nordeste,2900011,escola vargas estadual,publica,estadual,488.1098275862069,0.816,3.42,10395.68
+2024,silva,BA,Nordeste,2900010,escola nascimento ltda,privada,privada,584.251,0.814,7.17,42701.32
+2024,silva,BA,Nordeste,2900010,escola sa municipal,publica,municipal,577.0651724137931,0.762,6.85,42701.32
+2024,brito da praia,CE,Nordeste,2900016,escola caldeira municipal,publica,municipal,511.94203125,0.845,,17045.81
+2024,brito da praia,CE,Nordeste,2900016,escola montenegro ltda,privada,privada,498.8264102564103,0.713,5.75,17045.81
+2024,pereira paulista,CE,Nordeste,2900017,escola da rosa ltda,privada,privada,525.5285294117648,0.682,4.8,21197.71
+2024,pereira paulista,CE,Nordeste,2900017,escola pires municipal,publica,municipal,525.2109615384616,0.882,5.01,21197.71
+2024,siqueira,CE,Nordeste,2900018,escola costa ltda,privada,privada,559.531875,0.841,6.88,27415.08
+2024,siqueira,CE,Nordeste,2900018,escola montenegro ltda,privada,privada,547.5640277777778,0.812,5.24,27415.08
+2024,siqueira,CE,Nordeste,2900018,escola pereira municipal,publica,municipal,562.4884,0.852,6.26,27415.08
+2024,siqueira,CE,Nordeste,2900018,escola porto ltda,privada,privada,555.2576666666666,0.759,5.83,27415.08
+2024,barros de goias,DF,Centro-Oeste,2900025,escola araujo ltda,privada,privada,558.8393548387097,0.875,5.0,
+2024,barros de goias,DF,Centro-Oeste,2900025,escola da costa municipal,publica,municipal,543.1550000000001,0.802,5.14,
+2024,barros de goias,DF,Centro-Oeste,2900025,escola das neves estadual,publica,estadual,549.4611363636363,0.965,6.21,
+2024,garcia,DF,Centro-Oeste,2900026,escola barros estadual,publica,estadual,592.937894736842,0.943,6.57,37280.14
+2024,garcia,DF,Centro-Oeste,2900026,escola da costa estadual,publica,estadual,595.6876315789474,0.894,5.79,37280.14
+2024,garcia,DF,Centro-Oeste,2900026,escola nunes municipal,publica,municipal,597.32,0.87,6.78,37280.14
+2024,marques da praia,DF,Centro-Oeste,2900027,escola barros estadual,publica,estadual,500.079375,0.772,4.59,15652.87
+2024,marques da praia,DF,Centro-Oeste,2900027,escola mendonca municipal,publica,municipal,510.0478947368421,0.707,4.31,15652.87
+2024,marques da praia,DF,Centro-Oeste,2900027,escola siqueira estadual,publica,estadual,510.8907142857143,0.878,4.22,15652.87
+2024,barros da prata,GO,Centro-Oeste,2900020,escola castro estadual,publica,estadual,524.705,0.753,4.69,23349.41
+2024,barros da prata,GO,Centro-Oeste,2900020,escola nogueira ltda,privada,privada,530.6139743589744,0.727,4.8,23349.41
+2024,barros da prata,GO,Centro-Oeste,2900020,escola teixeira ltda,privada,privada,522.6094444444444,0.847,4.92,23349.41
+2024,nascimento de campos,GO,Centro-Oeste,2900019,escola cassiano ltda,privada,privada,544.8249999999999,0.841,6.55,26331.72
+2024,nascimento de campos,GO,Centro-Oeste,2900019,escola freitas estadual,publica,estadual,529.6825,0.909,5.22,26331.72
+2024,pires da praia,GO,Centro-Oeste,2900021,escola moura estadual,publica,estadual,575.9247297297297,0.868,6.37,31734.99
+2024,pires da praia,GO,Centro-Oeste,2900021,escola vasconcelos estadual,publica,estadual,574.7940625,0.812,6.74,31734.99
+2024,castro,MG,Sudeste,2900032,escola cunha municipal,publica,municipal,509.55272727272734,0.787,4.38,11050.84
+2024,castro,MG,Sudeste,2900032,escola lima municipal,publica,municipal,503.35033333333337,0.794,5.04,11050.84
+2024,castro,MG,Sudeste,2900032,escola nogueira municipal,publica,municipal,500.973125,0.73,5.19,11050.84
+2024,castro,MG,Sudeste,2900032,escola pereira ltda,privada,privada,485.3384375,0.763,5.48,11050.84
+2024,garcia de da mata,MG,Sudeste,2900033,escola costa ltda,privada,privada,487.1330555555556,0.721,4.47,13033.72
+2024,garcia de da mata,MG,Sudeste,2900033,escola sa municipal,publica,municipal,488.3804545454545,0.815,3.84,13033.72
+2024,garcia de da mata,MG,Sudeste,2900033,escola sales estadual,publica,estadual,490.24327586206897,0.777,4.13,13033.72
+2024,garcia de da mata,MG,Sudeste,2900033,escola siqueira estadual,publica,estadual,492.26959459459454,0.642,3.6,13033.72
+2024,nascimento,MG,Sudeste,2900031,escola cavalcante estadual,publica,estadual,564.2535294117647,0.752,6.7,30421.82
+2024,nascimento,MG,Sudeste,2900031,escola da luz municipal,publica,municipal,568.4518181818182,0.686,5.78,30421.82
+2024,nascimento,MG,Sudeste,2900031,escola moura municipal,publica,municipal,586.805945945946,0.832,6.84,30421.82
+2024,aparecida,MT,Centro-Oeste,2900023,escola almeida municipal,publica,municipal,523.6372857142857,0.852,4.88,19581.9
+2024,aparecida,MT,Centro-Oeste,2900023,escola mendonca estadual,publica,estadual,530.2871052631579,0.725,6.0,19581.9
+2024,santos,MT,Centro-Oeste,2900022,escola abreu estadual,publica,estadual,502.3086842105263,0.766,4.93,11814.55
+2024,santos,MT,Centro-Oeste,2900022,escola duarte ltda,privada,privada,500.9053846153847,0.793,4.58,11814.55
+2024,santos,MT,Centro-Oeste,2900022,escola peixoto municipal,publica,municipal,505.2321621621622,0.709,5.15,11814.55
+2024,vargas,MT,Centro-Oeste,2900024,escola camargo ltda,privada,privada,521.0166666666667,0.806,,18371.98
+2024,vargas,MT,Centro-Oeste,2900024,escola fonseca estadual,publica,estadual,531.7541428571428,0.866,6.27,18371.98
+2024,andrade do sul,PA,Norte,2900006,escola garcia municipal,publica,municipal,506.2247368421053,0.777,6.09,15298.46
+2024,andrade do sul,PA,Norte,2900006,escola gomes ltda,privada,privada,509.1754054054055,0.757,4.4,15298.46
+2024,andrade do sul,PA,Norte,2900006,escola martins ltda,privada,privada,500.4575438596491,0.727,3.7,15298.46
+2024,andrade do sul,PA,Norte,2900006,escola peixoto estadual,publica,estadual,508.1271296296297,0.78,4.12,15298.46
+2024,pastor,PA,Norte,2900005,escola azevedo estadual,publica,estadual,499.4470833333333,0.674,3.94,15026.16
+2024,pastor,PA,Norte,2900005,escola lima ltda,privada,privada,498.78058823529415,0.781,6.01,15026.16
+2024,pastor,PA,Norte,2900005,escola peixoto ltda,privada,privada,504.3070476190476,0.743,5.5,15026.16
+2024,rocha,PA,Norte,2900004,escola castro estadual,publica,estadual,574.9177777777778,0.855,6.2,
+2024,rocha,PA,Norte,2900004,escola rodrigues municipal,publica,municipal,566.7625675675675,0.952,6.34,
+2024,rocha,PA,Norte,2900004,escola vieira municipal,publica,municipal,568.9892857142858,0.809,6.72,
+2024,caldeira de minas,PE,Nordeste,2900015,escola cavalcanti ltda,privada,privada,507.504,0.747,4.9,15656.72
+2024,caldeira de minas,PE,Nordeste,2900015,escola da luz municipal,publica,municipal,516.7333333333333,0.78,4.75,15656.72
+2024,caldeira de minas,PE,Nordeste,2900015,escola montenegro municipal,publica,municipal,499.2956666666667,0.794,4.58,15656.72
+2024,caldeira de minas,PE,Nordeste,2900015,escola teixeira ltda,privada,privada,506.05895833333335,0.686,5.35,15656.72
+2024,cunha,PE,Nordeste,2900014,escola abreu estadual,publica,estadual,507.9957471264368,0.89,4.72,19680.83
+2024,cunha,PE,Nordeste,2900014,escola marques municipal,publica,municipal,518.3279411764706,0.759,4.38,19680.83
+2024,cunha,PE,Nordeste,2900014,escola silveira estadual,publica,estadual,507.07903846153846,0.821,5.57,19680.83
+2024,cunha,PE,Nordeste,2900014,escola silveira ltda,privada,privada,512.430606060606,0.893,5.15,19680.83
+2024,fernandes paulista,PE,Nordeste,2900013,escola castro municipal,publica,municipal,612.4280645161291,0.841,7.77,42958.02
+2024,fernandes paulista,PE,Nordeste,2900013,escola da rocha municipal,publica,municipal,611.2756666666667,0.889,6.89,42958.02
+2024,fernandes paulista,PE,Nordeste,2900013,escola lopes estadual,publica,estadual,603.2907894736842,0.904,7.01,42958.02
+2024,da cruz,PR,Sul,2900042,escola andrade ltda,privada,privada,557.1427027027026,0.889,5.17,24578.57
+2024,da cruz,PR,Sul,2900042,escola azevedo estadual,publica,estadual,543.2776666666666,0.819,5.41,24578.57
+2024,da cruz,PR,Sul,2900042,escola farias estadual,publica,estadual,556.6985,0.727,6.21,24578.57
+2024,da luz,PR,Sul,2900041,escola araujo estadual,publica,estadual,505.3673611111111,0.885,4.5,12036.24
+2024,da luz,PR,Sul,2900041,escola da conceicao municipal,publica,municipal,506.435625,0.754,4.67,12036.24
+2024,da luz,PR,Sul,2900041,escola pires ltda,privada,privada,500.1417241379311,0.84,3.72,12036.24
+2024,da luz,PR,Sul,2900041,escola santos ltda,privada,privada,498.2371428571428,0.749,5.4,12036.24
+2024,ramos dos dourados,PR,Sul,2900040,escola abreu estadual,publica,estadual,537.4060294117647,0.798,5.74,21789.58
+2024,ramos dos dourados,PR,Sul,2900040,escola barbosa ltda,privada,privada,540.0116666666667,0.815,,21789.58
+2024,ramos dos dourados,PR,Sul,2900040,escola camara estadual,publica,estadual,543.8064705882354,0.842,4.9,21789.58
+2024,andrade,RJ,Sudeste,2900036,escola campos estadual,publica,estadual,608.1703333333334,0.899,,40449.38
+2024,andrade,RJ,Sudeste,2900036,escola da cruz municipal,publica,municipal,599.3333333333334,0.893,6.69,40449.38
+2024,andrade,RJ,Sudeste,2900036,escola machado estadual,publica,estadual,614.0667647058824,0.776,6.55,40449.38
+2024,rodrigues,RJ,Sudeste,2900034,escola das neves estadual,publica,estadual,609.9925,0.928,6.97,39700.02
+2024,rodrigues,RJ,Sudeste,2900034,escola guerra estadual,publica,estadual,618.7069736842104,0.931,6.85,39700.02
+2024,rodrigues,RJ,Sudeste,2900034,escola rios ltda,privada,privada,623.6786666666667,0.948,7.46,39700.02
+2024,rodrigues,RJ,Sudeste,2900034,escola silva municipal,publica,municipal,618.3226666666667,0.787,7.66,39700.02
+2024,vargas do norte,RJ,Sudeste,2900035,escola freitas municipal,publica,municipal,615.9077222222222,0.868,7.28,45601.31
+2024,vargas do norte,RJ,Sudeste,2900035,escola macedo ltda,privada,privada,614.3491176470588,0.888,7.33,45601.31
+2024,vargas do norte,RJ,Sudeste,2900035,escola moreira estadual,publica,estadual,617.5417647058823,0.96,7.16,45601.31
+2024,vargas do norte,RJ,Sudeste,2900035,escola rezende estadual,publica,estadual,632.9035294117648,0.99,8.3,45601.31
+2024,cunha,RS,Sul,2900038,escola novaes municipal,publica,municipal,494.67390625,0.956,4.23,8907.2
+2024,cunha,RS,Sul,2900038,escola pastor estadual,publica,estadual,490.7266666666667,0.707,4.05,8907.2
+2024,cunha do amparo,RS,Sul,2900039,escola da conceicao ltda,privada,privada,582.079696969697,0.917,7.52,36782.09
+2024,cunha do amparo,RS,Sul,2900039,escola pastor municipal,publica,municipal,581.8040909090909,0.828,6.19,36782.09
+2024,guerra paulista,RS,Sul,2900037,escola almeida ltda,privada,privada,528.8507575757576,0.735,3.65,22457.97
+2024,guerra paulista,RS,Sul,2900037,escola azevedo ltda,privada,privada,509.64456521739135,0.794,5.35,22457.97
+2024,guerra paulista,RS,Sul,2900037,escola camara estadual,publica,estadual,523.2889130434783,0.779,5.51,22457.97
+2024,guerra paulista,RS,Sul,2900037,escola fernandes ltda,privada,privada,521.07575,0.837,5.32,22457.97
+2024,camara grande,SC,Sul,2900045,escola cardoso ltda,privada,privada,517.7280000000001,0.815,5.01,22193.09
+2024,camara grande,SC,Sul,2900045,escola nogueira municipal,publica,municipal,521.8661764705882,0.735,4.74,22193.09
+2024,pacheco das flores,SC,Sul,2900044,escola cunha municipal,publica,municipal,618.0145454545454,0.791,6.1,46444.0
+2024,pacheco das flores,SC,Sul,2900044,escola da mota municipal,publica,municipal,615.1836486486487,0.807,6.74,46444.0
+2024,pacheco das flores,SC,Sul,2900044,escola mendonca municipal,publica,municipal,622.3056250000001,0.841,7.31,46444.0
+2024,pacheco das flores,SC,Sul,2900044,escola rios municipal,publica,municipal,609.0025925925926,0.799,7.23,46444.0
+2024,souza verde,SC,Sul,2900043,escola barbosa municipal,publica,municipal,478.99716216216217,0.769,3.56,12655.84
+2024,souza verde,SC,Sul,2900043,escola da costa municipal,publica,municipal,476.3796551724138,0.705,3.97,12655.84
+2024,souza verde,SC,Sul,2900043,escola moraes municipal,publica,municipal,499.98,0.838,4.43,12655.84
+2024,costela paulista,SP,Sudeste,2900029,escola cardoso ltda,privada,privada,561.5427049180328,0.833,6.12,29349.09
+2024,costela paulista,SP,Sudeste,2900029,escola ribeiro estadual,publica,estadual,566.1072857142857,0.76,6.08,29349.09
+2024,costela paulista,SP,Sudeste,2900029,escola vargas municipal,publica,municipal,577.117205882353,0.759,5.6,29349.09
+2024,freitas,SP,Sudeste,2900028,escola azevedo estadual,publica,estadual,560.4083333333333,0.755,6.54,24516.48
+2024,freitas,SP,Sudeste,2900028,escola nascimento ltda,privada,privada,545.6715384615384,0.836,6.53,24516.48
+2024,freitas,SP,Sudeste,2900028,escola teixeira estadual,publica,estadual,562.8270454545454,0.742,5.9,24516.48
+2024,pereira,SP,Sudeste,2900030,escola melo ltda,privada,privada,485.6268918918919,0.638,4.2,10547.88
+2024,pereira,SP,Sudeste,2900030,escola novaes municipal,publica,municipal,481.6445588235295,0.737,,10547.88

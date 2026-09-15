@@ -1,0 +1,46 @@
+id_municipio,nome,uf,regiao,codigo_ibge
+1,cunha,AC,Norte,2900007
+2,montenegro,AC,Norte,2900008
+3,novais,AC,Norte,2900009
+4,alves,AM,Norte,2900001
+5,da cruz de goias,AM,Norte,2900002
+6,sousa,AM,Norte,2900003
+7,abreu da serra,BA,Nordeste,2900012
+8,camara dos dourados,BA,Nordeste,2900011
+9,silva,BA,Nordeste,2900010
+10,brito da praia,CE,Nordeste,2900016
+11,pereira paulista,CE,Nordeste,2900017
+12,siqueira,CE,Nordeste,2900018
+13,barros de goias,DF,Centro-Oeste,2900025
+14,garcia,DF,Centro-Oeste,2900026
+15,marques da praia,DF,Centro-Oeste,2900027
+16,barros da prata,GO,Centro-Oeste,2900020
+17,nascimento de campos,GO,Centro-Oeste,2900019
+18,pires da praia,GO,Centro-Oeste,2900021
+19,castro,MG,Sudeste,2900032
+20,garcia de da mata,MG,Sudeste,2900033
+21,nascimento,MG,Sudeste,2900031
+22,aparecida,MT,Centro-Oeste,2900023
+23,santos,MT,Centro-Oeste,2900022
+24,vargas,MT,Centro-Oeste,2900024
+25,andrade do sul,PA,Norte,2900006
+26,pastor,PA,Norte,2900005
+27,rocha,PA,Norte,2900004
+28,caldeira de minas,PE,Nordeste,2900015
+29,cunha,PE,Nordeste,2900014
+30,fernandes paulista,PE,Nordeste,2900013
+31,da cruz,PR,Sul,2900042
+32,da luz,PR,Sul,2900041
+33,ramos dos dourados,PR,Sul,2900040
+34,andrade,RJ,Sudeste,2900036
+35,rodrigues,RJ,Sudeste,2900034
+36,vargas do norte,RJ,Sudeste,2900035
+37,cunha,RS,Sul,2900038
+38,cunha do amparo,RS,Sul,2900039
+39,guerra paulista,RS,Sul,2900037
+40,camara grande,SC,Sul,2900045
+41,pacheco das flores,SC,Sul,2900044
+42,souza verde,SC,Sul,2900043
+43,costela paulista,SP,Sudeste,2900029
+44,freitas,SP,Sudeste,2900028
+45,pereira,SP,Sudeste,2900030
