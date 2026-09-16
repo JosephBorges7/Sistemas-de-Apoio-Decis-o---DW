@@ -30,6 +30,7 @@ erDiagram
     dim_escola {
         int id_escola PK
         string nome
+        int codigo_ibge
         string rede
         string tipo
     }
