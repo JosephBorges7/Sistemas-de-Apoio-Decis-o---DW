@@ -97,10 +97,10 @@ def main():
         'nome_escola', 'rede', 'tipo', 
         'nota_media_enem', 'taxa_aprovacao', 'indicador_ideb', 'pib_per_capita'
     ]
-    # 'nome' no IBGE é o município. Vamos renomear para município para manter a consistência do prompt original
+    # 'nome' no IBGE é o município. Renomear para município para manter a consistência 
     df_silver.rename(columns={'nome': 'municipio'}, inplace=True)
     
-    # Garantir que a ordem está igual a solicitada originalmente
+    # Garantir que a ordem está igual 
     cols_final = [
         'ano', 'municipio', 'uf', 'regiao', 'codigo_ibge', 
         'nome_escola', 'rede', 'tipo', 
