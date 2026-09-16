@@ -4,6 +4,10 @@
 O objetivo deste projeto é analisar o desempenho educacional cruzando dados fictícios do ENEM e IDEB com indicadores socioeconômicos (PIB per capita) em diferentes municípios, redes de ensino e regiões do Brasil. A estrutura foi construída utilizando uma **Arquitetura Medalhão**, atendendo integralmente ao escopo da disciplina de Sistemas de Apoio à Decisão (Bacharelado em Sistemas de Informação - IFBA).
 
 ## Domínio Escolhido
+
+**Problema de Negócio**: Como a infraestrutura socioeconômica e a natureza administrativa das escolas afetam o sucesso
+acadêmico no Brasil?
+
 **Educação e Socioeconomia**: Análise de notas médias do ENEM, taxa de aprovação, indicador IDEB e o impacto do PIB per capita municipal no desempenho das escolas públicas vs privadas.
 
 ## Estrutura de Pastas e Dados
