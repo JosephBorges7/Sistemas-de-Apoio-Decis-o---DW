@@ -11,11 +11,10 @@ O objetivo deste projeto é analisar o desempenho educacional cruzando dados fic
 - **`data/raw_fontes/`**: Pasta contendo os dados gerados para simular sistemas reais: `notas_enem.csv` (MEC), `ideb_escolas.json` (API), `dados_ibge.db` (Banco Relacional).
 - **`data/bronze/`**: Dados brutos copiados sem alteração.
 - **`data/silver/`**: Dados limpos, tratados (nulos, strings) e unificados num Dataframe via JOIN.
-- **`data/gold/`**: Modelo dimensional em Star Schema armazenado em um banco SQLite final (`dw_educacao.db`).
+- **`data/gold/`**: Modelo dimensional em Star Schema armazenado em arquivos CSV.
 - **`scripts/`**: Módulos do pipeline de Engenharia de Dados (`gerar_fontes_brutas.py`, `etl_bronze.py`, `etl_silver.py`, `etl_gold.py`).
 - **`docs/diagrama/`**: Modelo relacional/dimensional (`esquema_estrela_educacao.md`).
 - **`docs/relatorio/`**: Relatório final do projeto preenchido na estrutura Markdown exigida (`relatorio_final.md`).
-- **`apresentacao/`**: Slides baseados em Marp (`slides.md`).
 
 ## Como rodar o Pipeline (ETL)
 Os scripts foram desenhados para rodar de forma sequencial utilizando Python (Pandas + SQLite3). A partir da raiz do projeto, execute:
