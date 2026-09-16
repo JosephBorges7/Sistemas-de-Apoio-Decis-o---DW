@@ -33,10 +33,10 @@ def main():
     dim_municipio = dim_municipio[['id_municipio', 'nome', 'uf', 'regiao', 'codigo_ibge']]
     
     # 2.3 Dimensão Escola
-    df_esc = df_silver[['nome_escola', 'rede', 'tipo']].drop_duplicates().reset_index(drop=True)
+    df_esc = df_silver[['nome_escola', 'codigo_ibge', 'rede', 'tipo']].drop_duplicates().reset_index(drop=True)
     df_esc['id_escola'] = df_esc.index + 1
     dim_escola = df_esc.rename(columns={'nome_escola': 'nome'})
-    dim_escola = dim_escola[['id_escola', 'nome', 'rede', 'tipo']]
+    dim_escola = dim_escola[['id_escola', 'nome', 'codigo_ibge', 'rede', 'tipo']]
     
     # 3. Criar a Tabela Fato
     # Fazer merge com dim_tempo
@@ -46,7 +46,7 @@ def main():
     fato = fato.merge(dim_municipio[['id_municipio', 'codigo_ibge']], on='codigo_ibge', how='left')
     
     # Fazer merge com dim_escola
-    fato = fato.merge(dim_escola[['id_escola', 'nome']], left_on='nome_escola', right_on='nome', how='left')
+    fato = fato.merge(dim_escola[['id_escola', 'nome', 'codigo_ibge']], left_on=['nome_escola', 'codigo_ibge'], right_on=['nome', 'codigo_ibge'], how='left')
     
     # Selecionar as colunas da fato
     fato['id_fato'] = range(1, len(fato) + 1)
