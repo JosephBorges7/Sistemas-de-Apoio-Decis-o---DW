@@ -140,6 +140,8 @@ Arquivos CSV gerados na pasta `gold/`:
 - `dim_escola.csv` (Dimensão organizacional)
 - `dim_municipio.csv` (Dimensão geográfica)
 
+![Esquema Estrela](../../fotos/Esquema-estrela.png)
+
 ### 6.2 Granularidade
 
 A granularidade adotada na Tabela Fato é de **uma linha por Escola a cada Ano letivo avaliado**. Ou seja, a unidade mínima rastreável é o desempenho anual da instituição de ensino (Grão: Ano/Escola).
@@ -183,6 +185,8 @@ O Dashboard será construído utilizando uma ferramenta de visualização de dad
 | Média Nacional ENEM | Nota média global em dado ano | `mean(nota_media_enem)` agrupado por `ano_selecionado` |
 | Média IDEB Nacional | Índice IDEB global no mesmo ano | `mean(indicador_ideb)` agrupado por `ano_selecionado` |
 
+![Painel 1](../../fotos/WhatsApp%20Image%202026-09-15%20at%2023.42.21.jpeg)
+
 
 
 ### 8.3 Painel 2 - Comparação Regional
@@ -196,6 +200,8 @@ O Dashboard será construído utilizando uma ferramenta de visualização de dad
 | UF Maior Nota | Qual estado lidera o ranking | `idxmax(mean(nota_media_enem))` |
 | UF Menor Nota | Qual estado obteve a pior avaliação | `idxmin(mean(nota_media_enem))` |
 
+![Painel 2](../../fotos/WhatsApp%20Image%202026-09-15%20at%2023.43.25.jpeg)
+
 
 ### 8.4 Painel 3 - Rede Pública x Privada
 
@@ -207,6 +213,8 @@ O Dashboard será construído utilizando uma ferramenta de visualização de dad
 |---|---|---|
 | Gap de Nota | Diferença aritmética direta das médias das redes | `avg(nota_privada) - avg(nota_publica)` |
 | Taxa de Aprovação | Percentual médio de alunos aprovados por tipo | `mean(taxa_aprovacao) by (rede)` |
+
+![Painel 3](../../fotos/Captura%20de%20tela%202026-09-15%20235158.png)
 
 
 ---
